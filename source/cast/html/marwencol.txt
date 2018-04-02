@@ -1,0 +1,3584 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+	<head prefix="og: http://ogp.me/ns# flixstertomatoes: http://ogp.me/ns/apps/flixstertomatoes#">
+    <script src="//cdn.optimizely.com/js/594670329.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <meta name="google-site-verification" content="VPPXtECgUUeuATBacnqnCm4ydGO99reF-xgNklSbNbc">
+
+    <meta name="msvalidate.01" content="034F16304017CA7DCF45D43850915323">
+
+    <link href="https://staticv2-4.rottentomatoes.com/static/images/iphone/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="https://staticv2-4.rottentomatoes.com/static/images/icons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="https://staticv2-4.rottentomatoes.com/static/styles/css/rt_main.css" rel="stylesheet">
+
+    <script type="application/ld+json" id="jsonLdSchema">{"@context":"http://schema.org","@type":"Movie","name":"Marwencol","contentRating":"NR","dateModified":"2018-03-26T10:29:06-07:00","dateCreated":"2010-06-03T12:00:50-07:00","url":"/m/marwencol","datePublished":null,"productionCompany":{"@type":"Organization","name":"The Cinema Guild"},"aggregateRating":{"@type":"AggregateRating","ratingValue":98,"bestRating":"100","worstRating":"0","reviewCount":59,"name":"Tomatometer","description":"The Tomatometer rating – based on the published opinions of hundreds of film and television critics – is a trusted measurement of movie and TV programming quality for millions of moviegoers. It represents the percentage of professional critic reviews that are positive for a given film or television show."},"review":[{"@type":"Review","reviewBody":"Simultaneously hypnotic and unnerving, it asks some rather uncomfortable questions about the nature of art and the potential and limits of self-healing.","url":null,"dateCreated":"2010-12-28T03:11:16-08:00","author":{"@type":"Person","url":"/critic/john-hartl","name":"John Hartl"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Seattle Times","url":"/source-505"}},{"@type":"Review","reviewBody":"Director Jeff Malmberg sees something in Hogancamp that he wants all of us to see, an imperfect human scarred by horrific trauma who nonetheless finds a reason to live.","url":"http://www.thestar.com/entertainment/movies/article/885851--marwencol-a-tiny-world-within","dateCreated":"2010-12-28T03:10:16-08:00","author":{"@type":"Person","url":"/critic/bruce-demara","name":"Bruce Demara"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Toronto Star","url":"/source-450"}},{"@type":"Review","reviewBody":"Hogancamp's alliance with director Jeff Malmberg in this artful and poignant film marks a victory in the war against the self.","url":"http://www.stltoday.com/entertainment/movies/reviews/article_caed5819-0cf9-5696-badf-cb0d392bce03.html","dateCreated":"2010-12-16T22:12:18-08:00","author":{"@type":"Person","url":"/critic/joe-williams","name":"Joe Williams"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"St. Louis Post-Dispatch","url":"/source-429"}},{"@type":"Review","reviewBody":"A fine, delicately nuanced portrait of an artist compelled by mysterious forces to create something utterly unique.","url":"http://www.washingtonpost.com/gog/movies/marwencol,1166847/critic-review.html","dateCreated":"2010-12-09T19:40:41-08:00","author":{"@type":"Person","url":"/critic/ann-hornaday","name":"Ann Hornaday"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Washington Post","url":"/source-474"}},{"@type":"Review","reviewBody":"If you have even a passing interest in outsider art, you owe it to yourself to see \"Marwencol.\"","url":"http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/12/02/MVAQ1GJFGL.DTL","dateCreated":"2010-12-02T10:25:58-08:00","author":{"@type":"Person","url":"/critic/walter-v-addiego","name":"Walter V. Addiego"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"San Francisco Chronicle","url":"/source-402"}},{"@type":"Review","reviewBody":"Producer/director Jeff Malmberg tells the amazing true story with tenderness and tact.","url":"http://www.startribune.com/movies/","dateCreated":"2010-12-02T07:49:24-08:00","author":{"@type":"Person","url":"/critic/colin-covert","name":"Colin Covert"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Minneapolis Star Tribune","url":"/source-648"}},{"@type":"Review","reviewBody":"Extraordinary, astonishing, revealing, unique ","url":"http://www.urbancinefile.com.au/home/view.asp?a=18991&s=Reviews","dateCreated":"2012-09-08T18:02:31-07:00","author":{"@type":"Person","url":"/critic/andrew-l-urban","name":"Andrew L. Urban"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Urban Cinefile","url":"/source-462"}},{"@type":"Review","reviewBody":"Truly inspiring","url":"http://www.urbancinefile.com.au/home/view.asp?a=18991&s=Reviews","dateCreated":"2012-09-08T18:02:18-07:00","author":{"@type":"Person","url":"/critic/louise-keller","name":"Louise Keller"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Urban Cinefile","url":"/source-462"}},{"@type":"Review","reviewBody":"The film is never flippant, never disrespectful and always approaches Mark's hobby with eyes wide open and no agenda other than fascinated admiration.","url":"http://www.themercury.com.au/article/2012/09/08/359925_movie-reviews.html","dateCreated":"2012-09-07T22:37:23-07:00","author":{"@type":"Person","url":"/critic/tim-martain","name":"Tim Martain"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"The Mercury","url":"/source-2357"}},{"@type":"Review","reviewBody":"Alternate realities help us work through issues, but might keep us from confronting the world","url":"http://www.moviehabit.com/review.php?story=mar_li10","dateCreated":"2011-09-30T09:37:19-07:00","author":{"@type":"Person","url":"/critic/robert-denerstein","name":"Robert Denerstein"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Movie Habit","url":"/source-296"}},{"@type":"Review","reviewBody":"By allowing his emerging post-trauma experience into his pretend kingdom, the man is reconstituting his self-consciousness, reclaiming the dignity of his whole mind, recovering his soul.","url":"http://djardine.blogspot.com/2011/08/marwencol-usa-2010-jeff-malmberg-ben.html","dateCreated":"2011-08-20T06:17:21-07:00","author":{"@type":"Person","url":"/critic/dan-jardine","name":"Dan Jardine"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Cinemania","url":"/source-1522"}},{"@type":"Review","reviewBody":"First-time director Jeff Malmberg does almost everything right in this stunningly empathetic documentary. ","url":"http://metrotimes.com/screens/marwencol-1.1117529","dateCreated":"2011-03-13T04:35:01-07:00","author":{"@type":"Person","url":"/critic/jeff-meyers","name":"Jeff Meyers"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Metro Times (Detroit, MI)","url":"/source-495"}},{"@type":"Review","reviewBody":null,"url":"http://www.boston.com/ae/movies/articles/2010/12/03/marwencol_expertly_explores_a_battered_artists_private_fantasy_world/","dateCreated":"2011-11-23T21:15:07-08:00","author":{"@type":"Person","url":"/critic/ty-burr","name":"Ty Burr"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Boston Globe","url":"/source-44"}},{"@type":"Review","reviewBody":"Marwencol provides a deeply empathetic view of loneliness and powerful evidence of art as an outlet. ","url":"http://reeltimes.blogspot.com/2011/01/marwencol.html","dateCreated":"2011-03-09T01:52:53-08:00","author":{"@type":"Person","url":"/critic/mark-pfeiffer","name":"Mark Pfeiffer"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Reel Times: Reflections on Cinema","url":"/source-1669"}},{"@type":"Review","reviewBody":"Speaks to the addictiveness, the catharsis, the unpredictability, and the eternity of the creative process.","url":"http://www.windowtothemovies.com/af2010-4.html#marwencol","dateCreated":"2011-03-04T02:02:59-08:00","author":{"@type":"Person","url":"/critic/jeffrey-chen","name":"Jeffrey Chen"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Window to the Movies","url":"/source-1073"}},{"@type":"Review","reviewBody":"A heartwrenching tale of wish fulfillment on a nearly molecular level...","url":"http://orlandoweekly.com/film/marwencol-1.1112982","dateCreated":"2011-03-02T07:07:26-08:00","author":{"@type":"Person","url":"/critic/justin-strout","name":"Justin Strout"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Orlando Weekly","url":"/source-499"}},{"@type":"Review","reviewBody":"Marwencol is a mesmerizing documentary, and like Mark Hogancamp it continually surprises you. It may also be one of the best films you'll see all year.","url":"http://www.kpbs.org/news/2011/feb/10/review-marwencol/","dateCreated":"2011-02-09T23:54:07-08:00","author":{"@type":"Person","url":"/critic/beth-accomando","name":"Beth Accomando"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"KPBS.org","url":"/source-1346"}},{"@type":"Review","reviewBody":"Hogancamp didn't know he was creating art ... he was merely surviving, spinning stories for his sanity. In an era of 'look-at-me,' this type of agenda is as far away from our world as Marwencol itself.","url":"http://www.indiemoviesonline.com/reviews/marwencol-011811","dateCreated":"2011-01-18T03:43:44-08:00","author":{"@type":"Person","url":"/critic/kimberly-gadette","name":"Kimberly Gadette"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Indie Movies Online","url":"/source-2117"}},{"@type":"Review","reviewBody":"Cinematically raw, untidy and sometimes positively odd, but it's also revealing, fascinating, unsettling and ultimately quite touching.","url":"http://www.oneguysopinion.com/Review.php?ID=3213","dateCreated":"2011-01-13T10:16:42-08:00","author":{"@type":"Person","url":"/critic/frank-swietek","name":"Frank Swietek"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"One Guy's Opinion","url":"/source-347"}},{"@type":"Review","reviewBody":"\"Marwencol\" is inspiring but also insightful because it refuses to gloss over complex, even discomfiting questions surrounding its endearing but troubled central character.","url":"http://www.oregonlive.com/movies/index.ssf/2011/01/review_marwencol_provides_affe.html","dateCreated":"2011-01-06T07:34:04-08:00","author":{"@type":"Person","url":"/critic/stan-hall","name":"Stan Hall"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Oregonian","url":"/source-608"}},{"@type":"Review","reviewBody":"Malmberg instead takes a gentle approach. He's patient and coaxing, and he lets Mark grow comfortable for the camera. ","url":"http://www.combustiblecelluloid.com/2010/marwencol.shtml","dateCreated":"2011-01-04T02:42:00-08:00","author":{"@type":"Person","url":"/critic/jeffrey-m-anderson","name":"Jeffrey M. Anderson"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Combustible Celluloid","url":"/source-96"}},{"@type":"Review","reviewBody":"Enthralling and deeply strange.","url":"http://www.eyeweekly.com/film/feature/article/105494","dateCreated":"2010-12-28T03:08:21-08:00","author":{"@type":"Person","url":"/critic/jason-anderson","name":"Jason Anderson"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"eye WEEKLY","url":"/source-159"}},{"@type":"Review","reviewBody":"The film Marwencol is as mesmerizing as Mark's imaginary town and treats him and his world with absolute respect","url":"http://playbackstl.com/movie-reviews/10116-marwencol-the-cinema-guild-nr","dateCreated":"2010-12-17T06:27:44-08:00","author":{"@type":"Person","url":"/critic/sarah-boslaugh","name":"Sarah Boslaugh"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Playback:stl","url":"/source-2071"}},{"@type":"Review","reviewBody":"A painfully intimate, mysterious, joyous film.","url":"http://goatdog.com/moviePage.php?movieID=1040","dateCreated":"2010-12-11T02:46:25-08:00","author":{"@type":"Person","url":"/critic/michael-w-phillips-jr","name":"Michael W. Phillips, Jr."},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Goatdog's Movies","url":"/source-959"}}],"image":"https://resizing.flixster.com/ge6O3e_uZhYwifhKVQWKJ7uILeA=/1304x978/v1.bjs3MjA4OTtqOzE3NjQwOzEyMDA7MTMwNDs5Nzg","actors":[{"@type":"Person","name":"Mark Hogancamp","sameAs":"https://www.rottentomatoes.com/celebrity/mark_hogancamp_3"}],"character":[],"director":[{"@type":"Person","name":"Jeff Malmberg","sameAs":"https://www.rottentomatoes.com/celebrity/jeff_malmberg"}],"author":[],"genre":["Documentary","Science Fiction & Fantasy"]}</script>
+
+    <script>
+    var dataLayer = dataLayer || [];
+    </script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.2.0/require.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script>
+require.config({
+    baseUrl: "https://staticv2-4.rottentomatoes.com/static/",
+    waitSeconds: 60,
+    config: {
+        text: {
+            useXhr:function(url, protocol, hostname, port) {
+                return true;
+            }
+        }
+    },
+    paths: {
+        facebook : "//connect.facebook.net/en_US/all",
+        backbone: "//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.2.1/backbone-min",
+        bootstrap: "//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min",
+        device: "//cdnjs.cloudflare.com/ajax/libs/device.js/0.2.7/device.min",
+        marionette: "//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/2.4.3/backbone.marionette.min",
+        moment: "//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min",
+        googleMapsApis: "//maps.googleapis.com/maps/api/js?key=AIzaSyDPjsVhzeFsT0QhCw_gwy2PyXyfLo-ejds&libraries=places",
+        slick: "//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min",
+        text: "//cdnjs.cloudflare.com/ajax/libs/require-text/2.0.12/text.min",
+        typeahead: "//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.5/typeahead.bundle.min",
+        underscore: "//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min",
+        select2 : "//cdnjs.cloudflare.com/ajax/libs/select2/3.5.2/select2.min",
+        jwplayer: "js/lib/jwplayer-7.4.3/jwplayer",
+        googletag : "//www.googletagservices.com/tag/js/gpt", // NOTE: app code should generally NOT depend directly on googletag. Depend on gpt-setup insteaad.
+        domReady: "//cdnjs.cloudflare.com/ajax/libs/require-domReady/2.0.1/domReady.min",
+        "js-cookie" : "//cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.1/js.cookie.min",
+        "jquery-ui": "//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min",
+        scrollTo: "//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.14/jquery.scrollTo.min",
+        nouislider: "//cdnjs.cloudflare.com/ajax/libs/noUiSlider/9.0.0/nouislider.min",
+        swiper: "js/lib/swiper.jquery.min",
+        hammer: "//cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.4/hammer.min",
+        rsvp: "//cdnjs.cloudflare.com/ajax/libs/rsvp/3.3.3/rsvp.min",
+        masonry: "//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.min",
+        dotdotdot: "//cdnjs.cloudflare.com/ajax/libs/jQuery.dotdotdot/1.7.4/jquery.dotdotdot.min",
+        readmore: "//cdnjs.cloudflare.com/ajax/libs/Readmore.js/2.0.5/readmore.min",
+        omniture: "dist/tracking/omniture.min",
+        "star-rating": "js/lib/star-rating/star-rating.min",
+        schema : "js/utils/schema",
+        rtClamp: "dist/utils/rtclamp.min",
+        vendor: 'dist/vendor',
+        'common-pure-react': 'dist/common-pure-react',
+        'common-react-redux': 'dist/common-react-redux',
+        'episode-list': 'dist/episode-list',
+        'friend-ratings': 'dist/friend-ratings',
+        'fullscreen-search': 'dist/fullscreen-search',
+        'location-utils': 'dist/location-utils',
+        'media-browser': 'dist/media-browser',
+        'photos-carousel': 'dist/photos-carousel-modal',
+        'photo-gallery': 'dist/photo-gallery',
+        'photo-rail': 'dist/photo-rail',
+        'rating-widget': 'dist/rating-widget',
+        'search-results': 'dist/search-results',
+        'videos-carousel': 'dist/videos-carousel',
+        recommendations: 'dist/recommendations',
+        'box-office': 'dist/box-office',
+        bezier: "js/bezierEasing",
+    },
+    // Note: jquery, underscore and backbone all support amds natively. no need for shim.
+    shim: {
+        "photos-carousel": {
+            deps: ["common-pure-react"]
+        },
+        "videos-carousel": {
+            deps: ["common-pure-react"]
+        },
+        "fullscreen-search": {
+            deps: ["common-pure-react"]
+        },
+        "location-utils": {
+            deps: ["common-pure-react"]
+        },
+        "friend-ratings": {
+            deps: ["common-pure-react"]
+        },
+        'rating-widget': {
+            deps: ["common-pure-react"]
+        },
+        'recommendations': {
+            deps: ["common-pure-react"]
+        },
+        'photo-rail': {
+            deps: ["common-pure-react"]
+        },
+        'search-results': {
+            deps: ["common-react-redux"]
+        },
+        'episode-list': {
+            deps: ["common-react-redux"]
+        },
+        'media-browser': {
+            deps: ["common-react-redux"]
+        },
+        "photo-gallery": {
+            deps: ["common-react-redux"]
+        },
+        'box-office': {
+            deps: ['common-react-redux']
+        },
+        'common-pure-react': {
+            deps: ["vendor"]
+        },
+        'common-react-redux': {
+            deps: ["vendor"]
+        },
+        "bootstrap" : {
+        	deps: ["jquery"]
+        },
+        "slick": {
+            deps: ["jquery"],
+            exports: "slick"
+        },
+        "text": {
+            deps: ["backbone"]
+        },
+        "marionette": {
+            deps: ["jquery", "underscore", "backbone"],
+            exports: "Marionette"
+        },
+		"jwplayer": {
+            exports: "jwplayer"
+        },
+        "select2" : {
+            deps: ["jquery"]
+        },
+        "domReady!": {
+            exports : "domReady!"
+        },
+        "facebook" : {
+            exports: "FB"
+        },
+        "scrollTo" : {
+            deps: ["jquery"]
+        },
+        "touchSwipe": {
+            deps: ["jquery"]
+        },
+        "typeahead": {
+            deps: ["jquery", "bootstrap"],
+            exports: "typeahead"
+        },
+        "swiper": {
+            deps: ["jquery"]
+        },
+        "nouislider": {
+            deps: ["jquery"]
+        },
+        "readmore": {
+            deps: ["jquery"]
+        },
+        "dotdotdot": {
+            deps: ["jquery"]
+        },
+        "googletag" : {
+        	exports: "googletag"
+        },
+        "jquery-ui": {
+            deps: ["jquery"]
+        }
+    }
+});
+</script>
+<script>
+define("globals", ["jquery", "underscore"], function($, _) {
+    _.templateSettings = {
+        interpolate: /\<\@\=(.+?)\@\>/gim,
+        evaluate: /\<\@(.+?)\@\>/gim
+    };
+    var RT = RT || {};
+    RT.Host = 'https://www.rottentomatoes.com';
+    RT.EditorialHost = 'https://editorial.rottentomatoes.com';
+    RT.LegacyPagesHost = 'https://www.rottentomatoes.com';
+    RT.PrivateApiFrontendHost = 'https://www.rottentomatoes.com';
+    RT.PrivateApiV2FrontendHost = 'https://www.rottentomatoes.com';
+    RT.ForumHost = 'https://forum.rottentomatoes.com';
+    RT.EditorialImageHost = 'https://editorial.rottentomatoes.com';
+    RT.StaticHost = 'https://staticv2-4.rottentomatoes.com';
+    RT.ShowtimesHost = 'https://api.flixster.com';
+    RT.NewsThrottle = {
+        homepage: false,
+        celebrity: false,
+        newsAndFeature: false,
+        episode: false,
+        season: false,
+        header: false,
+        movie: "Tomatometer" // State: Off, Tomatometer, Limited, On. Off will not throttle
+    };
+    RT.JwplayerKey='ojO88EQl2m4RQJPsd3tOAYLZOlgjKpMliIQMpA==';
+    RT.loginInit = $.Deferred();
+    RT.loginViewLoad = $.Deferred();
+    RT.fb_ready = $.Deferred();
+    RT.RecaptchaDeferred = $.Deferred();
+    RT.adPromises = [];
+    return RT;
+});
+</script>
+<script>
+    
+        var mpscall = {};
+        var BK = {};
+
+        mpscall = {
+            "site":"rottentomatoes-web",
+            "type":"movie_page", // page or content type
+            "cat":"movie|movie_page", // section hierarchy (pipe separated)
+            "field[env]":"prod" // execution environment
+        };
+
+        BK.PageName = "https://www.rottentomatoes.com/m/marwencol/";
+        BK.SiteSection = "movie";
+
+        require(["js-cookie"], function(Cookies){
+            var user_id_key = "auth_user";
+            var userId = Cookies.get(user_id_key);
+            if (userId) {
+                BK.FlixsterUID=userId;
+            }
+        });
+
+        
+                    mpscall["cag[score]"] = "98";
+                
+                    mpscall["cag[certified_fresh]"]="1"; // 0|1
+                    mpscall["cag[fresh_rotten]"]="fresh"; // fresh|rotten
+                
+            mpscall["field[rtid]"]="771198393"; // unique movie/show id
+            mpscall["cag[rating]"]="nr"; // mpaa rating
+            mpscall["cag[release]"]="2010"; // latest release year
+            mpscall["cag[movieshow]"]="Marwencol"; // name of movie or show
+            mpscall["cag[genre]"]=["Documentary","Science Fiction & Fantasy"].join('|');
+
+            BK.MovieId="771198393";
+            BK.MovieTitle="Marwencol";
+            BK.MovieGenres=["Documentary","Science Fiction & Fantasy"].join(',');
+
+            var dataLayer = dataLayer || [];
+            dataLayer.push({
+                "pageName": "rt | movies | overview | Marwencol",
+                "titleId": "771198393",
+                "titleName": "Marwencol",
+                "titleGenre": ["Documentary","Science Fiction & Fantasy"].join('|'),
+                "titleType": "Movie",
+                "lifeCycleWindow": "[on-dvd]"
+            });
+        
+
+        var mpsopts = {
+            "host":"mps.nbcuni.com",
+            "updatecorrelator":true
+        }
+
+        var mps=mps||{};mps._ext=mps._ext||{};mps._adsheld=[];mps._queue=mps._queue||{};mps._queue.mpsloaded=mps._queue.mpsloaded||[];mps._queue.mpsinit=mps._queue.mpsinit||[];mps._queue.gptloaded=mps._queue.gptloaded||[];mps._queue.adload=mps._queue.adload||[];mps._queue.adclone=mps._queue.adclone||[];mps._queue.adview=mps._queue.adview||[];mps._queue.refreshads=mps._queue.refreshads||[];mps.__timer=Date.now();mps.__intcode="v2";if(typeof mps.getAd!="function")mps.getAd=function(adunit){if(typeof adunit!="string")return false;var slotid="mps-getad-"+adunit.replace(/\W/g,"");if(!mps._ext||!mps._ext.loaded){mps._queue.gptloaded.push(function(){typeof mps._gptfirst=="function"&&mps._gptfirst(adunit,slotid);mps.insertAd("#"+slotid,adunit)});mps._adsheld.push(adunit)}return'<div id="'+slotid+'" class="mps-wrapper" data-mps-fill-slot="'+adunit+'"></div>'};(function(){head=document.head||document.getElementsByTagName("head")[0],mpsload=document.createElement("script");mpsload.src="//"+mpsopts.host+"/fetch/ext/load-"+mpscall.site+".js?nowrite=2";mpsload.id="mps-load";head.insertBefore(mpsload,head.firstChild)})();
+    
+
+    // force preload of googletag
+    require(["googletag"]);
+
+    
+    flix_user_id = "";
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
+    {n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
+    ;if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1147905821962466');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1147905821962466&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 64558; // ACCOUNT NUMBER
+    _sf_async_config.domain = 'rottentomatoes.com'; // DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    /** CONFIGURATION END **/
+    var _sf_startpt = (new Date()).getTime();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
+<script src="//assets.adobedtm.com/a5fa26c3da5356c4d77ae8244dc4eb5096e2f4b0/satelliteLib-cbce2cb5d7b476a55d4d651acf340e0592b4f00c.js"></script>
+    <script>console.info("require:" + window.performance.now());</script>
+
+    <script>
+    function endsWith(str, suffix) {
+        return str.indexOf(suffix, str.length - suffix.length) !== -1;
+    }
+
+    //--Ad Unit Loaded (called for each ad loaded)
+    var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.adload=mps._queue.adload||[];
+    mps._queue.adload.push(function(eo) {
+        window.console && console.log('**** AD LOADED: '+eo._mps.adslot);
+        if (!eo.isEmpty) {
+            console.log('MPS Slot Rendered: ' + eo.slot.getAdUnitPath() + " - " + eo.size + ', Creative Id: ' + eo.creativeId + ', Line Item Id: ' + eo.lineItemId +  ', Slot name: ' + eo._mps._slot);
+            var slotName = eo._mps._slot;
+            if ("interstitial" === slotName || "minterstitial" === slotName) {
+                require(["js-cookie"], function(Cookies){
+                    var pageViewCount = "pvc";
+                    var pageViewCountCookieValue = Cookies.get(pageViewCount);
+                    var date = new Date();
+                    var minutes = 60;
+                    date.setTime(date.getTime() + (minutes * 60 * 1000));
+                    if (pageViewCountCookieValue == null) {
+                        Cookies.set(pageViewCount, "1", {path: '/', expires : date});
+                    }
+                });
+            }
+
+            if ("topbanner" === slotName) {
+                var leaderboardHeight = eo.size[1];
+                if (leaderboardHeight > 50){
+                    
+                        $('#header-main').removeClass('header_main_scroll');
+                        $('#header-main').css('margin-top', leaderboardHeight + 10);
+                        var bannerEl = $('#header_and_leaderboard');
+                        bannerEl.addClass("header_and_leaderboard_scroll");
+                    
+                    if (leaderboardHeight < 90){
+                        $('.leaderboard_wrapper').css('min-height', leaderboardHeight);
+                    }
+                    $("#top_leaderboard_wrapper").animate({height:(leaderboardHeight+10)},1000);
+                }
+            }
+
+            if ("trendinggraphic" === slotName) {
+                //Hide Trending bar social section
+                $("#trending_bar_social").hide();
+                //Removing padding for trending bar ad
+                $(".trendingBar>.trendingEl").css("padding","0px");
+                $("#trending_bar_ad").show();
+            }
+
+            if ("tomatometer" === slotName) {
+                if (eo.size[0] == 524 && eo.size[1] == 40) {
+                    //Increase score panel margin
+                    $("#scorePanel").css("margin-bottom", "20px");
+                }
+                // Only show Tomatometer Sponsorship div if rendered
+                $("#tomatometer_sponsorship_ad").show();
+            }
+        }
+    });
+
+    define("gpt-setup", ["jquery", "googletag"], function($, googletag){
+        console.log("GPT - global setup");
+
+        /* Keep track of slots defined to googletag */
+        googletag.definedSlots = {};
+
+        /* Add hook for setting external targeting */
+        googletag.readyToFetch = $.Deferred();
+        googletag.registeredPlugins = {};
+        googletag.registerPlugin = function(name){
+            console.log("GPT Registering plugin - " + name);
+            this.registeredPlugins[name] = $.Deferred();
+        };
+
+        googletag.pluginReady = function(name){
+            console.log("GPT Plugin Ready - " + name);
+            this.registeredPlugins[name].resolve();
+        };
+
+        return googletag;
+    });
+</script>
+
+<script>console.info("gpt-global:" + window.performance.now());</script>
+
+    <script>
+        var dataLayer = dataLayer || [];
+        dataLayer.push({ 'viewportType': window.innerWidth >= 768 ? "desktop_view" : "mobile_view" });
+        dataLayer.push({ 'rtVersion' : 2.0 });
+    </script>
+    <script>
+    require(["jquery"], function($) {
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start' : new Date().getTime(),
+                event : 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer'? '&l='
+                    + l
+                    : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', "GTM-TW7ZFZ");
+    });
+    </script>
+    <script>console.info("gtm:" + window.performance.now());</script>
+
+    <script>
+            
+            dataLayer.push({
+                'event': 'MOB Pageview',
+                'mobUrl': '/m/marwencol/',
+                'mobWindow': ''
+            });
+        </script>
+
+        <title>Marwencol (2010) - Rotten Tomatoes</title>
+
+        <link href="https://www.rottentomatoes.com/m/marwencol/" rel="canonical">
+<meta name="movieTitle" content="Marwencol">
+
+        <link rel="alternate" href="android-app://net.flixster.android/flixster/movie?id=771198393">
+
+        <meta property="fb:app_id" content="326803741017">
+        <meta property="og:title" content="Marwencol">
+<meta property="og:type" content="video.movie">
+<meta property="og:url" content="https://www.rottentomatoes.com/m/marwencol/">
+        <meta property="og:title" content="Marwencol">
+        <meta property="og:description" content="On April 8, 2000, Mark Hogancamp was brutally attacked by five men in his hometown of Kingston, New York. The assault left the ex-navyman, carpenter, and showroom designer in a coma for nine days; he emerged with brain damage that initially made it impossible for him to walk, eat, or speak. Physical and occupational therapy helped him regain basic motor skills, but after less than a year he discovered that without insurance, he could no longer afford it. Determined " not to let those five guys win hogancamp turned art as a therapeutic tool. he revisited his childhood hobbies of collecting toy soldiers and building painting models. commandeering pile scrap wood left behind by contractor constructed fictional belgian town built one-sixth scale in backyard. populated it with military figurines barbie dolls representing world war ii personages like patton hitler well stand-ins for himself friends family. finally dusted off an old camera used capture staged events ranging from pitched battles between occupying german american forces catfights the bar.-- cinema guild>
+        <meta property="og:image" content="https://resizing.flixster.com/8CY7XGTxgwk7IsPfxgiVMLtyPP8=/300x300/v1.bTsxMTE1MjY3NDtqOzE3NzI0OzEyMDA7NjQ4Ozk2MA">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@rottentomatoes">
+        <meta name="twitter:title" content="Marwencol">
+        <meta name="twitter:description" content="On April 8, 2000, Mark Hogancamp was brutally attacked by five men in his hometown of Kingston, New York. The assault left the ex-navyman, carpenter, and showroom designer in a coma for nine days; he emerged with brain damage that initially made it impossible for him to walk, eat, or speak. Physical and occupational therapy helped him regain basic motor skills, but after less than a year he discovered that without insurance, he could no longer afford it. Determined " not to let those five guys win hogancamp turned art as a therapeutic tool. he revisited his childhood hobbies of collecting toy soldiers and building painting models. commandeering pile scrap wood left behind by contractor constructed fictional belgian town built one-sixth scale in backyard. populated it with military figurines barbie dolls representing world war ii personages like patton hitler well stand-ins for himself friends family. finally dusted off an old camera used capture staged events ranging from pitched battles between occupying german american forces catfights the bar.-- cinema guild>
+        <meta name="twitter:image" content="https://resizing.flixster.com/8CY7XGTxgwk7IsPfxgiVMLtyPP8=/300x300/v1.bTsxMTE1MjY3NDtqOzE3NzI0OzEyMDA7NjQ4Ozk2MA">
+        <meta name="movieID" content="771198393">
+
+        <link rel="stylesheet" href="https://staticv2-4.rottentomatoes.com/static/styles/css/movie.css">
+<link href="https://staticv2-4.rottentomatoes.com/static/js/lib/star-rating/css/star-rating.min.css" text="text/css" rel="stylesheet">
+        <link href="//cdn.jsdelivr.net/jquery.slick/latest/slick.css" type="text/css" rel="stylesheet">
+        <link href="//cdn.jsdelivr.net/jquery.slick/latest/slick-theme.css" type="text/css" rel="stylesheet">
+    <script>console.info("after page specific head tag content:" + window.performance.now());</script>
+
+    <script>console.info("bottom of head tag: " + window.performance.now());</script>
+    <script type="text/javascript">
+        var onRecaptchaCallback = function() {
+            require(["jquery", "globals"], function($, RT) {
+                RT.RecaptchaDeferred.resolve();
+            });
+        };
+    </script>
+    <script>
+        require([
+            "globals",
+            "https://staticv2-4.rottentomatoes.com/static/dist/app/models/LoginModel.min.js",
+        ], function(RT, LoginModel) {
+            RT.loginModel = new LoginModel();
+            RT.loginInit.resolve();
+        }.bind(this));
+    </script>
+</head>
+<body class="body  ">
+    <script>console.info("body-top:" + window.performance.now());</script>
+    <div id="emptyPlaceholder"></div> <div id="fb-root"></div>
+<script>
+require(['jquery', 'facebook', 'globals'], function($, FB, RT) {
+    FB.init({
+        appId: '326803741017',
+        version : 'v2.9',
+        status: true,
+        cookie: true,
+        xfbml: true
+    });
+
+    // FB scripts ready. (Does not imply logged in)
+    RT.fb_ready.resolve();
+});
+</script><script>console.info("facebook:" + window.performance.now());</script>
+
+    <!-- TODO: Put in long term targeting fix -->
+    <div id="overlay" style="height:0px;"></div>
+<script>
+    var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+    mps._queue.gptloaded.push(function() {
+        if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+            require(["js-cookie"], function(Cookies){
+                var pageViewCount = Cookies.get("pvc");
+                if (pageViewCount == null || (parseInt(pageViewCount) == 0) || (parseInt(pageViewCount) % 3 == 0)) {
+                    mps.insertAd('#overlay','interstitial');
+                }
+            });
+        } else if (mps.getResponsiveSet() == '0') {
+            require(["js-cookie"], function(Cookies){
+                var pageViewCount = Cookies.get("pvc");
+                if (pageViewCount == null || (parseInt(pageViewCount) == 0) || (parseInt(pageViewCount) % 3 == 0)) {
+                    mps.insertAd('#overlay','minterstitial');
+                }
+            });
+        }
+    });
+</script>
+
+<script>
+            if (Math.max(document.documentElement.clientWidth, window.innerWidth || 0) > 768) {
+                //Leaderboard viewability scroll only loaded for desktop
+                require(["https://staticv2-4.rottentomatoes.com/static/dist/jspjs/leaderboardViewability.jsp.min.js"]);
+            }
+        </script>
+    <div id="navMenu" class="modal fade" role="dialog" aria-labelledby="navMenu">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span class="glyphicon glyphicon-remove"></span>
+                </button>
+                <div class="pull-left">
+                    <ul class="list-inline social">
+                        <li><a id="header-facebook-social-link" class="unstyled fontelloIcon icon-facebook-squared" href="http://www.facebook.com/rottentomatoes" target="_blank"></a></li>
+                        <li><a id="header-twitter-social-link" class="unstyled fontelloIcon icon-twitter" href="http://twitter.com/rottentomatoes" target="_blank"></a></li>
+                    </ul>
+                </div>
+                <div class="items">
+                    <div class="item">
+                        <a class="homeTab unstyled navLink fullLink" href="/">
+                            Home
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a class="boxofficeTab unstyled navLink fullLink" href="/lists/theater/">
+                            Top Box Office
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a class="theatersTab unstyled navLink fullLink" href="/theaters/">
+                            Tickets &amp; Showtimes
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a class="dvdTab unstyled navLink fullLink" href="/lists/dvd/">
+                            DVD &amp; Streaming
+                        </a>
+                    </div>
+                    <div class="item">
+                            <a class="tvTab unstyled navLink fullLink" href="/lists/tv/">
+                                TV
+                            </a>
+                        </div>
+                    <div class="item">
+                        <a class="newsTab unstyled navLink fullLink" href="https://editorial.rottentomatoes.com">
+                            News
+                        </a>
+                    </div>
+                    </div>
+                <div class="loginArea"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="body_main container">
+        <div id="whatIsTomatometer" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">×</span><span class="sr-only">Close</span>
+                </button>
+                <h2 class="modal-title">What is the Tomatometer<sup>®</sup>?</h2>
+            </div>
+            <div class="modal-body">
+                <p>
+                    The Tomatometer score — based on the opinions of hundreds of film and television critics — is a trusted measurement of critical recommendation for millions of fans. It represents the percentage of professional critic reviews that are positive for a given film or television show.
+                </p>
+                <div class="row-sameColumnHeight noSpacing" style="margin:20px 0">
+                    <div class="col-xs-18" style="vertical-align:bottom">
+                        <div class="title">
+                            <h3>
+                                <span style="background-color:white">From the Critics</span>
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="col-xs-6" style="vertical-align:bottom">
+                        <h3 class="noSpacing center">From RT Users Like You!</h3>
+                    </div>
+                </div>
+
+                <div class="row-sameColumnHeight noSpacing">
+                    <div class="col-xs-18">
+                        <div class="col-xs-8 center">
+                            <span class="icon huge fresh"></span>
+                            <p class="noSpacing bold">Fresh</p>
+                            <p>The Tomatometer is 60% or higher.</p>
+                        </div>
+                        <div class="col-xs-8 center">
+                            <span class="icon huge rotten"></span>
+                            <p class="noSpacing bold">Rotten</p>
+                            <p>The Tomatometer is below 60%.</p>
+                        </div>
+                        <div class="col-xs-8 center">
+                            <span class="icon huge certified"></span>
+                            <p class="noSpacing bold">Certified Fresh</p>
+                            <p>
+                                Movies and TV shows are Certified Fresh with a steady Tomatometer of 75% or
+                                higher after a set amount of reviews (80 for wide-release movies, 40 for
+                                limited-release movies, 20 for TV shows), including 5 reviews from Top Critics.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 center">
+                        <span class="icon huge popcorn"></span>
+                        <p class="noSpacing bold">Audience Score</p>
+                        <p>Percentage of users who rate a movie or TV show positively.</p>
+                    </div>
+                </div>
+                <div class="clickForMore" style="margin-bottom:0">
+                    <a class="unstyled articleLink" href="/about/">Learn More <span class="glyphicon glyphicon-menu-right"></span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="header_and_leaderboard">
+            <div id="top_leaderboard_wrapper" class="leaderboard_wrapper ">
+        <div id="top_leaderboard_helper" class="leaderboard_helper">
+            <div id="leaderboard_top_ad"></div>
+            <script>
+                //--RESPONSIVE AD SWITCHING (DIFFERENT CONTAINERS)
+                var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function() {
+                    if (mps.getResponsiveSet() =='0') { //MOBILE
+                        mps.insertAd('#leaderboard_top_ad','mbanner');
+                    } else { //DESKTOP or TABLET
+                        mps.insertAd('#leaderboard_top_ad','topbanner');
+                    }
+                });
+            </script>
+        </div>
+    </div>
+</div>
+
+        <nav id="header-main" class="header_main container">
+    <div id="navbar" class="navbar navbar-rt" role="navigation">
+        <div class="navbar-header pull-right hidden-xs">
+            <div class="header_links">
+                <a id="header-whats-the-tomatometer" data-toggle="modal" data-target="#whatIsTomatometer">What's the Tomatometer<sup>®</sup>?</a>
+                <a id="header-top-bar-critics" href="/critics/">RT Critics</a>
+                <div id="headerUserSection" style="display: inline-block;"></div>
+            </div>
+        </div>
+        <div id="header_brand_column" class="col-sm-13 col-full-xs">
+            <div class="hidden-xs desktopNav">
+                <div id="navbar_brand" class="navbar-brand">
+                    <a id="header-rt-logo" href="/"><img id="original_rt_logo" src="https://staticv2-4.rottentomatoes.com/static/images/logos/rtlogo.png"></a>
+                    <div id="new_logo_ad" style="display:none;"></div>
+<script>
+    var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+    mps._queue.gptloaded.push(function() {
+        if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+            mps.rt.insertlogo('#new_logo_ad', 'ploc=rtlogo;');
+        }
+    });
+</script>
+
+</div>
+
+                <div id="desktop-search-root">
+                    <form action="/search/" method="get">
+                        <div class="navbar-searchbox main">
+                            <div class="input-group">
+                                <input name="search" type="text" class="form-control" placeholder="Search movies, TV, actors, more..." id="search-term">
+                                <div class="input-group-btn">
+                                    <button type="submit" class="btn btn-default searchBtn">
+                                        <em class="glyphicon glyphicon-search"></em>
+                                    </button>
+                                </div>
+                                <div class="navbar-close">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="glyphicon glyphicon-remove"></span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <script>
+                    (function() {
+                        require(["fullscreen-search"], function(fullscreenSearch) {
+                            fullscreenSearch.mountDropdown(document.getElementById('desktop-search-root'));
+                        });
+                    })();
+                </script>
+            </div>
+
+            <div class="visible-xs mobileNav">
+                <div>
+                    <a id="mobile-search-button">
+                        <button class="pull-right navbar-button searchButton">
+                            <em class="glyphicon glyphicon-search white"></em>
+                        </button>
+                    </a>
+                    <script>
+                        (function() {
+                            require(["fullscreen-search"], function(fullscreenSearch) {
+                                fullscreenSearch.attach(document.getElementById('mobile-search-button'));
+                            });
+                        })();
+                    </script>
+                </div>
+
+                <div class="navbar-brand">
+                        <a id="header-rt-logo" href="/"> <img src="https://staticv2-4.rottentomatoes.com/static/images/logos/rtlogo.png"></a>
+                    </div>
+                    <div id="mobile-nav">
+                        <div class="mob-nav-bottom clearfix">
+                            <ul id="nav-list" class="nav-list">
+                                <li class="nav-item">
+                                    <a href="/"><i class=" fontelloIcon icon-home"></i>Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="/lists/theater/"><i class=" fontelloIcon icon-boxoffice"></i>Box Office</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="/lists/tv/"><i class=" fontelloIcon icon-tv2"></i>TV</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="/lists/dvd/"><i class=" fontelloIcon icon-redeem"></i>DVD</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="menu-btn" class="menu-btn" href="javascript:void(0)">
+                                        <i class=" fontelloIcon icon-more"></i>MORE
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div id="mobile-nav-overlay" class="mobile-nav-overlay">
+                            <!--mobile dropdown-->
+                            <ul class="mobile-menu-panel">
+                                <li class="nav-item"><a href="https://editorial.rottentomatoes.com">News</a></li>
+                                <li class="nav-item clearfix d-block">
+                                    <div class="login-signup-box pull-left">
+                                        <a id="mobile-signup-btn" data-toggle="modal" data-target="#signup" class="signupLink login btn-login-signup">SIGN UP</a>
+                                        <a id="mobile-login-btn" data-toggle="modal" data-target="#login" class="loginLink login btn-login-signup">LOG IN</a>
+                                    </div>
+                                    <div class="social-media-box pull-right">
+                                        <a href="https://www.facebook.com/rottentomatoes">
+                                            <i class="fontelloIcon icon-facebook-squared" aria-hidden="true"></i>
+                                        </a>
+                                        <a href="https://twitter.com/rottentomatoes">
+                                            <i class="fontelloIcon icon-twitter" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                            <!--mobile dropdown end-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        <div id="menu" class="navbar-nav col-sm-11 hidden-xs">
+    <ul class="list-inline">
+        <li class="menuHeader center dropdown noSpacing">
+            <a id="movieMenu" role="button" class="h2 white" href="/browse/opening/">
+                Movies &amp; DVDs<span class="fontelloIcon icon-down-dir"></span>
+            </a>
+            <div id="movie-menu" class="dropdown-menu" role="menu" aria-labelledby="movieMenu">
+                <div class="row-sameColumnHeight">
+                    <div class="col-xs-5 subnav">
+                        <div class="innerSubnav">
+                            <h2 class="title">Movies in Theaters</h2>
+                            <ul class="list-unstyled" id="header-movies-in-theaters">
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/opening/">Opening This Week</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/in-theaters/">Top Box Office</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/upcoming/">Coming Soon to Theaters</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/box-office/">Weekend Earnings</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/cf-in-theaters/">Certified Fresh Movies</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-5 subnav">
+                        <div class="innerSubnav">
+                            <a class="unstyled articleLink" href="/dvd/"><h2 class="title">On Dvd &amp; Streaming</h2></a>
+                            <ul class="list-unstyled" id="header-on-dvd-streaming">
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-all/?services=fandango_now">FandangoNOW</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-all/?services=netflix_iw">Netflix Streaming</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-all/?services=itunes">iTunes</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-all/?services=amazon_prime;amazon">Amazon and Amazon Prime</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/top-dvd-streaming/">Top DVD &amp; Streaming</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-new/">New Releases</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-upcoming/">Coming Soon to DVD</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/cf-dvd-streaming-all/">Certified Fresh Movies</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-all/">Browse All</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-3 subnav">
+                        <div class="innerSubnav">
+                            <h2 class="title">More</h2>
+                            <ul class="list-unstyled" id="header-movies-more">
+                                <li><a class="unstyled articleLink" href="/top/">Top Movies</a></li>
+                                <li><a class="unstyled articleLink" href="/trailers/">Trailers</a></li>
+                                <li><a class="unstyled articleLink" href="https://forum.rottentomatoes.com">Forums</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-11 subnav">
+                        <h2 class="title">Certified Fresh Picks</h2>
+                            <div class="freshPicks inDropdown" id="header-certified-fresh-picks">
+                                <div class="cfpItem">
+    <a href="/m/love_simon" class="unstyled articleLink cfpLinks">
+        <p class="topText bold cfp-item-header"></p>
+        <div class="imgContainer">
+            <img src="https://resizing.flixster.com/k6W6uZtCG-BQQFz6P9ZbQ7BS-yQ=/fit-in/278x400/v1.bTsxMjY4NjczNjtqOzE3NjUxOzEyMDA7NDA1MDs2MDAw">
+        </div>
+        <div class="movie_content_area">
+            <span class="icon tiny certified"></span>
+                    <span class="tMeterScore cfp-item-score">92%</span>
+                </div>
+        <p class="title noSpacing cfp-item-title">Love, Simon</p>
+    </a>
+</div>
+<div class="cfpItem">
+    <a href="/m/black_panther_2018" class="unstyled articleLink cfpLinks">
+        <p class="topText bold cfp-item-header"></p>
+        <div class="imgContainer">
+            <img src="https://resizing.flixster.com/6aTYsrG3JUMl-3XcS7Dfdh0is6A=/fit-in/278x400/v1.bTsxMjU1NzcyNTtqOzE3NjUwOzEyMDA7MTY4ODsyNTAw">
+        </div>
+        <div class="movie_content_area">
+            <span class="icon tiny certified"></span>
+                    <span class="tMeterScore cfp-item-score">97%</span>
+                </div>
+        <p class="title noSpacing cfp-item-title">Black Panther</p>
+    </a>
+</div>
+<div class="cfpItem">
+    <a href="/m/mom_and_dad_2018" class="unstyled articleLink cfpLinks">
+        <p class="topText bold cfp-item-header"></p>
+        <div class="imgContainer">
+            <img src="https://resizing.flixster.com/I4T6eLnTRqkmbmIOY4rnifQzHRI=/fit-in/278x400/v1.bTsxMjY0MTAxMztqOzE3NjUxOzEyMDA7MTMwMDsxOTI2">
+        </div>
+        <div class="movie_content_area">
+            <span class="icon tiny certified"></span>
+                    <span class="tMeterScore cfp-item-score">73%</span>
+                </div>
+        <p class="title noSpacing cfp-item-title">Mom and Dad</p>
+    </a>
+</div>
+</div>
+                        </div>
+                </div>
+            </div>
+        </li>
+        <li class="menuHeader center dropdown noSpacing dropdown-toggle">
+            <a id="tvMenu" class="h2" href="/top-tv/"> TV<span class="fontelloIcon icon-down-dir"></span></a>
+            <div id="tvMenuDropdown" class="dropdown-menu" role="menu" aria-labelledby="tvMenu">
+                <div class="row-sameColumnHeight">
+                    <div class="col-xs-7 subnav">
+                        <div class="innerSubnav" id="header-tv-col1">
+                                <div class="clickForMore">
+                                    <a id="tv-list-21-view-all" class="unstyled articleLink" href="/browse/tv-list-1/">
+                                        View All
+                                    </a>
+                                </div>
+                                <h2 class="title">New TV Tonight</h2>
+                                <table id="tv-list-21" class="movie_list tv_list">
+                                    <tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/ash_vs_evil_dead/s03">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/ash_vs_evil_dead/s03">Ash vs Evil Dead</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_good_fight/s02">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_good_fight/s02">The Good Fight</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/silicon_valley/s05">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/silicon_valley/s05">Silicon Valley</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/brooklyn_nine_nine/s05">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/brooklyn_nine_nine/s05">Brooklyn Nine-Nine</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/barry/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/barry/s01">Barry</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/billions/s03">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">94%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/billions/s03">Billions</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/doctor_foster/s02">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">80%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/doctor_foster/s02">Doctor Foster</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/trust/s01">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">76%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/trust/s01">Trust</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_walking_dead/s08">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">74%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_walking_dead/s08">The Walking Dead</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/homeland/s07">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">70%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/homeland/s07">Homeland</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/deception_2018/s01">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">63%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/deception_2018/s01">Deception</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/instinct/s01">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">60%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/instinct/s01">Instinct</a>
+    </td>
+</tr>
+</table>
+                            </div>
+                        </div>
+                    <div class="col-xs-7 subnav">
+                        <div class="innerSubnav" id="header-tv-col2">
+                                <div class="clickForMore">
+                                    <a id="tv-list-24-view-all" class="unstyled articleLink" href="/browse/tv-list-2/">
+                                        View All
+                                    </a>
+                                </div>
+                                <h2 class="title">Most Popular TV on RT</h2>
+                                <table id="tv-list-24" class="movie_list tv_list">
+                                    <tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_terror/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">91%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_terror/s01">The Terror</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/wild_wild_country/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/wild_wild_country/s01">Wild Wild Country</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/counterpart/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/counterpart/s01">Counterpart</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/barry/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/barry/s01">Barry</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/sneaky_pete/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/sneaky_pete/s01">Sneaky Pete</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/black_lightning/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">97%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/black_lightning/s01">Black Lightning</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_looming_tower/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">96%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_looming_tower/s01">The Looming Tower</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/atlanta/s02">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/atlanta/s02">Atlanta</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/requiem/s01">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">78%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/requiem/s01">Requiem</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/roseanne/s10">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">82%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/roseanne/s10">Roseanne</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/jessica_jones/s02">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">87%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/jessica_jones/s02">Marvel's Jessica Jones</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/timeless/s02">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/timeless/s02">Timeless</a>
+    </td>
+</tr>
+</table>
+                            </div>
+                        </div>
+                    <div class="col-xs-5 subnav">
+                        <div class="innerSubnav">
+                            <h2 class="title">More</h2>
+                            <ul class="list-unstyled" id="header-tv-more">
+                                <li><a class="unstyled articleLink" href="/top-tv/">Top TV Shows</a></li>
+                                <li><a class="unstyled articleLink" href="/browse/tv-list-3/">Certified Fresh TV</a></li>
+                            </ul>
+                            <h2 class="title" style="margin-top: 20px">Episodic Reviews</h2>
+                            <ul class="list-unstyled" id="header-tv-episodic-reviews">
+                                <li><a href="/tv/the_americans/s06/#desktopEpisodeList"> The Americans: Season 6</a></li>
+                                <li><a href="/tv/atlanta/s02/#desktopEpisodeList"> Atlanta: Robbin' Season</a></li>
+                                <li><a href="/tv/black_lightning/s01/#desktopEpisodeList"> Black Lightning: Season 1</a></li>
+                                <li><a href="/tv/homeland/s07/#desktopEpisodeList"> Homeland: Season 7</a></li>
+                                <li><a href="/tv/riverdale/s02/#desktopEpisodeList"> Riverdale: Season 2</a></li>
+                                <li><a href="/tv/star_trek_discovery/s01/#desktopEpisodeList"> Star Trek: Discovery: Chapters 1 &amp; 2</a></li>
+                                <li><a href="/tv/this_is_us/s02/#desktopEpisodeList"> This Is Us: Season 2</a></li>
+                                <li><a href="/tv/the_walking_dead/s08/#desktopEpisodeList"> The Walking Dead: Season 8</a></li>
+                                <li><a href="/tv/the_x_files/s11/#desktopEpisodeList"> The X-Files: Season 11</a></li>
+                                </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-5 subnav freshPicks inDropdownTv">
+                        <div class="innerSubnav">
+                                <h2 class="title">Certified Fresh Pick</h2>
+                                <div class="cfpItem">
+    <a href="/tv/atlanta/s02" class="unstyled articleLink cfpLinks">
+        <div class="imgContainer">
+            <img src="https://resizing.flixster.com/HDGDRBDBWVPgnBgkseZix0G_DaY=/fit-in/278x400/v1.dDsyNzkyNjY7ajsxNzY0MzsxMjAwOzE4MDA7MjQwMA">
+        </div>
+        <div class="movie_content_area">
+            <span class="icon tiny certified"></span>
+                    <span class="tMeterScore cfp-item-score">98%</span>
+                </div>
+        <p class="title noSpacing cfp-item-title">Atlanta</p>
+    </a>
+</div>
+</div>
+                        </div>
+                </div>
+            </div>
+        </li>
+        <li class="menuHeader center dropdown noSpacing dropdown-toggle">
+            <a id="newsMenu" class="h2" href="https://editorial.rottentomatoes.com">
+                News<span class="fontelloIcon icon-down-dir"></span>
+            </a>
+            <div class="dropdown-menu" role="menu" aria-labelledby="newsMenu">
+                <div class="row-sameColumnHeight noSpacing">
+                    <div class="col-xs-4 subnav">
+                        <div class="innerSubnav" id="header-news-columns">
+                            <h2 class="title">Columns</h2>
+                            <ul class="list-unstyled">
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/24-frames/" data-pageheader="24 Frames">24 Frames</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/binge-guide/" data-pageheader="Binge Guide">Binge Guide</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/box-office-guru/" data-pageheader="Box Office Guru">Box Office Guru</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/critics-consensus/" data-pageheader="Critics Consensus">Critics Consensus</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/five-favorite-films/" data-pageheader="Five Favorite Films">Five Favorite Films</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/now-streaming/" data-pageheader="Now Streaming">Now Streaming</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/parental-guidance/" data-pageheader="Parental Guidance">Parental Guidance</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/red-carpet-roundup/" data-pageheader="Red Carpet Roundup">Red Carpet Roundup</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/rt-on-dvd/" data-pageheader="RT on DVD">RT on DVD</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/the-simpsons-decade/" data-pageheader="The Simpsons Decade">The Simpsons Decade</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/sub-cult/" data-pageheader="Sub-Cult">Sub-Cult</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/tech-talk/" data-pageheader="Tech Talk">Tech Talk</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/total-recall/" data-pageheader="Total Recall">Total Recall</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/tv-premieres-countdown/" data-pageheader="TV Countdown">TV Countdown</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/tv-talk/" data-pageheader="TV Talk">TV Talk</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/video-interviews/" data-pageheader="Video Interviews">Video Interviews</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/weekly-ketchup/" data-pageheader="Weekly Ketchup">Weekly Ketchup</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 subnav">
+                        <div class="innerSubnav" id="header-news-best-worst">
+                                <div class="clickForMore">
+                                    <a class="unstyled articleLink" data-pageheader="Best and Worst - Show All" href="https://editorial.rottentomatoes.com/total-recall/">View All</a>
+                                </div>
+                                <h2 class="title">Best and Worst</h2>
+                                <div class="newsContainer">
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/article/rank-all-of-wes-andersons-movies/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/03/21145032/Wes-Anderson-Recall.jpg')"></div>
+                                                <div class="newsTitle">
+                                                        Rank All of Wes Anderson’s Movies</div>
+                                            </a>
+                                        </div>
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/article/rank-anton-yelchins-10-best-movies/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/03/07163224/Anton-Yelchin-Recall.jpg')"></div>
+                                                <div class="newsTitle">
+                                                        Rank Anton Yelchin’s 10 Best Movies</div>
+                                            </a>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    <div class="col-xs-6 subnav">
+                        <div class="innerSubnav" id="header-news-guides">
+                                <div class="clickForMore">
+                                    <a class="unstyled articleLink" data-pageheader="Guides - Show All" href="https://editorial.rottentomatoes.com/rt-hubs/">View All</a>
+                                </div>
+                                <h2 class="title">Guides</h2>
+                                <div class="newsContainer">
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/rt-hub/spring-summer-tv-guide-2018/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/03/20095240/springsummer2018rep2.jpg')"></div>
+                                                <div class="newsTitle">
+                                                    Spring/Summer TV Guide 2018</div>
+                                            </a>
+                                        </div>
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/rt-hub/awards-tour-2017-2018/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2017/11/27111339/awards-representative.jpg')"></div>
+                                                <div class="newsTitle">
+                                                    Awards Tour 2017/2018</div>
+                                            </a>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    <div class="col-xs-6 subnav">
+                        <div class="innerSubnav" id="header-news-rtnews">
+                                <div class="clickForMore" style="margin-bottom: 0">
+                                    <a class="unstyled articleLink" data-pageheader="RT News - Show All" href="https://editorial.rottentomatoes.com/news/">View All</a>
+                                </div>
+                                <h2 class="title">RT News</h2>
+                                <div class="newsContainer">
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/article/the-walking-dead-season-8-episode-14-highlights/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/04/01222012/the-walking-dead-season-8_morgan_600x314.jpg')"></div>
+                                                <div class="newsTitle">
+                                                    The Hunt for Henry Takes Its Toll — in Blood — on <em>The Walking Dead</em>
+</div>
+                                            </a>
+                                        </div>
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/article/legion-creator-noah-hawley-talks-season-2-and-shadow-king-as-good-guy/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/03/01160332/legion_202_dan-stevens-600x314.jpg')"></div>
+                                                <div class="newsTitle">
+                                                    <em>Legion</em> Creator Noah Hawley Prepares Fans for a Reinvention in Season 2</div>
+                                            </a>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </li>
+        <li class="h2 menuHeader center noSpacing" style="border-radius: 5px" id="header-tickets-showtimes">
+            <a id="ticketingMenu" href="/showtimes/" class="menuHeader"> Tickets &amp; Showtimes </a>
+        </li>
+    </ul>
+</div>
+</div>
+    <div class="trendingBar hidden-xs">
+        <div class="fr">
+            <ul id="trending_bar_social" class="list-inline social">
+                <li class="header">
+                <li><a id="header-facebook-social-link" class="unstyled trendingLink fontelloIcon icon-facebook-squared white" href="http://www.facebook.com/rottentomatoes" target="_blank"></a></li>
+                <li><a id="header-twitter-social-link" class="unstyled trendingLink fontelloIcon icon-twitter white" href="http://twitter.com/rottentomatoes" target="_blank"></a></li>
+                <li><a id="header-instagram-social-link" class="unstyled trendingLink fontelloIcon icon-instagram white" href="https://www.instagram.com/rottentomatoes/"></a></li>
+                <li><a id="header-snapchat-social-link" class="unstyled trendingLink fontelloIcon icon-snapchat white" href="https://www.snapchat.com/add/rottentomatoes"></a></li>
+                <li><a id="header-youtube-social-link" class="unstyled trendingLink fontelloIcon icon-youtube-play white" href="http://www.youtube.com/user/rottentomatoes" target="_blank"></a></li>
+            </ul>
+            <div id="trending_bar_ad" style="display: none;"></div>
+            <script>
+                var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function() {
+                    if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+                        mps.insertAd('#trending_bar_ad','trendinggraphic');
+                    }
+                });
+            </script>
+        </div>
+        <ul class="list-inline trendingEl">
+            <li class="header">Trending on RT</li>
+            <li><a class="unstyled trendingLink" href="https://www.rottentomatoes.com/m/ready_player_one"> Ready Player One</a></li>
+            <li><a class="unstyled trendingLink" href="https://editorial.rottentomatoes.com/article/box-office-ready-player-one-is-steven-spielbergs-best-opening-in-a-decade/"> Box Office</a></li>
+            <li><a class="unstyled trendingLink" href="https://editorial.rottentomatoes.com/guide/every-steven-spielberg-movie-ranked-by-tomatometer/"> Best Steven Spielberg Movies</a></li>
+            <li><a class="unstyled trendingLink" href="https://editorial.rottentomatoes.com/article/56-rotten-movies-we-actually-love/"> 56 Rotten Movies We Love</a></li>
+            </ul>
+    </div>
+</nav>
+<div id="main_container" class="container ">
+            <div id="super">
+            <div id="super_movie_tv_ad" style="height:0px;"></div>
+    <script>
+        var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+        mps._queue.gptloaded.push(function() {
+            mps.insertAd('#super_movie_tv_ad','superdetail');
+        });
+    </script>
+
+</div>
+
+        <aside id="movieListColumn" class="col mob col-right hidden-xs">
+            <div id="movies_sidebar">
+    <nav id="main_movie_sidebar_content">
+        <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation" class="in-theaters-tab ">
+                <a href="#in-theaters" data-toggle="tab">
+                    In <br>Theaters
+                </a>
+            </li>
+            <li role="presentation" class="on-dvd-tab active">
+                <a href="#on-dvd" data-toggle="tab">
+                    DVD &amp; Streaming
+                </a>
+            </li>
+            <li role="presentation" class="on-tv-tab ">
+                <a href="#on-tv" data-toggle="tab">
+                    TV <br> Shows
+                </a>
+            </li>
+        </ul>
+        <div class="tab-content" style="height:auto;">
+            <section class="tab-pane fade " id="in-theaters">
+                <h3>Opening</h3>
+<table class="movie_list opening">
+    <tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/a_quiet_place_2018">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/a_quiet_place_2018">A Quiet Place</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/a_quiet_place_2018">
+                    Apr 6</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/blockers">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">89%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/blockers">Blockers</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/blockers">
+                    Apr 6</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/chappaquiddick">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">69%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/chappaquiddick">Chappaquiddick</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/chappaquiddick">
+                    Apr 6</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/the_miracle_season">
+            <span class="tMeterIcon tiny noRating">No Score Yet</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/the_miracle_season">The Miracle Season</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/the_miracle_season">
+                    Apr 6</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/you_were_never_really_here">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">89%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/you_were_never_really_here">You Were Never Really Here</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/you_were_never_really_here">
+                    Apr 6</a>
+            </td>
+</tr>
+</table>
+<div class="showAll openingMore">
+    <a class="unstyled articleLink" href="/browse/opening/">
+        View All
+    </a>
+</div>
+<h3>Top Box Office</h3>
+<table class="movie_list top_box_office">
+    <tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/ready_player_one">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">75%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/ready_player_one">Ready Player One</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/ready_player_one">
+                    $41.2M</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/tyler_perrys_acrimony">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">28%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/tyler_perrys_acrimony">Tyler Perry's Acrimony</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/tyler_perrys_acrimony">
+                    $17.1M</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/black_panther_2018">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">97%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/black_panther_2018">Black Panther</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/black_panther_2018">
+                    $11.3M</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/i_can_only_imagine_2018">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">68%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/i_can_only_imagine_2018">I Can Only Imagine</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/i_can_only_imagine_2018">
+                    $10.8M</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/pacific_rim_uprising">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">45%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/pacific_rim_uprising">Pacific Rim Uprising</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/pacific_rim_uprising">
+                    $9.2M</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/sherlock_gnomes">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">18%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/sherlock_gnomes">Sherlock Gnomes</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/sherlock_gnomes">
+                    $7M</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/love_simon">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">92%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/love_simon">Love, Simon</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/love_simon">
+                    $4.8M</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/tomb_raider_2018">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">50%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/tomb_raider_2018">Tomb Raider</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/tomb_raider_2018">
+                    $4.8M</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/a_wrinkle_in_time_2018">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">40%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/a_wrinkle_in_time_2018">A Wrinkle in Time</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/a_wrinkle_in_time_2018">
+                    $4.7M</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/paul_apostle_of_christ">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">41%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/paul_apostle_of_christ">Paul, Apostle of Christ</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/paul_apostle_of_christ">
+                    $3.5M</a>
+            </td>
+</tr>
+</table>
+<div class="showAll topBoxOfficeMore">
+    <a class="unstyled articleLink" href="/browse/in-theaters/">
+        View All
+    </a>
+</div>
+
+<h3>Coming Soon</h3>
+<table class="movie_list comingSoon">
+    <tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/rampage_2018">
+            <span class="tMeterIcon tiny noRating">No Score Yet</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/rampage_2018">Rampage</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/rampage_2018">
+                    Apr 13</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/borg_vs_mcenroe">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">79%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/borg_vs_mcenroe">Borg vs McEnroe (Borg McEnroe)</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/borg_vs_mcenroe">
+                    Apr 13</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/blumhouses_truth_or_dare">
+            <span class="tMeterIcon tiny noRating">No Score Yet</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/blumhouses_truth_or_dare">Blumhouse's Truth or Dare</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/blumhouses_truth_or_dare">
+                    Apr 13</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/marrowbone">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">40%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/marrowbone">Marrowbone</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/marrowbone">
+                    Apr 13</a>
+            </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/beirut">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">89%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/beirut">Beirut</a>
+    </td>
+    <td class="right_col right">
+        <a href="/m/beirut">
+                    Apr 11</a>
+            </td>
+</tr>
+</table>
+<div class="showAll comingSoonMore" style="margin-bottom:5px">
+    <a class="unstyled articleLink" href="/browse/upcoming/">
+        View All
+    </a>
+</div></section>
+            <section class="tab-pane fade active in" id="on-dvd">
+                <h3>Top DVD &amp; Streaming</h3>
+<table class="movie_list top_rentals">
+    <tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/father_figures_2017">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">20%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/father_figures_2017">Father Figures</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/insidious_the_last_key">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">32%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/insidious_the_last_key">Insidious: The Last Key</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/sweet_virginia_2017">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">78%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/sweet_virginia_2017">Sweet Virginia</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/lowlife_2018">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/lowlife_2018">Lowlife</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/permanent">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">38%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/permanent">Permanent</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr>
+</table>
+<div class="showAll topRentalsMore">
+    <a href="/browse/top-dvd-streaming/" class="unstyled articleLink">
+        View All
+    </a>
+</div>
+
+
+<h3>New On DVD/Streaming This Week</h3>
+<table class="movie_list new_release">
+   <tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/father_figures_2017">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">20%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/father_figures_2017">Father Figures</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/insidious_the_last_key">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">32%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/insidious_the_last_key">Insidious: The Last Key</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/sweet_virginia_2017">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">78%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/sweet_virginia_2017">Sweet Virginia</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/lowlife_2018">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/lowlife_2018">Lowlife</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr>
+<tr class="sidebarInTheaterOpening">
+    <td class="left_col">
+        <a href="/m/permanent">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">38%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/permanent">Permanent</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr>
+</table>
+<div class="showAll newReleaseMore" style="margin-bottom:10px">
+    <a href="/browse/dvd-streaming-new/" class="unstyled articleLink">
+        View All
+    </a>
+</div>
+</section>
+            <section class="tab-pane fade " id="on-tv">
+                <h3>New TV Tonight</h3>
+    <table class="movie_list tv_list">
+        <tr class="tv_show_tr tvList1">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/ash_vs_evil_dead/s03">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/ash_vs_evil_dead/s03">Ash vs Evil Dead</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList1">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_good_fight/s02">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_good_fight/s02">The Good Fight</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList1">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/silicon_valley/s05">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/silicon_valley/s05">Silicon Valley</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList1">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/brooklyn_nine_nine/s05">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/brooklyn_nine_nine/s05">Brooklyn Nine-Nine</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList1">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/barry/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/barry/s01">Barry</a>
+    </td>
+</tr>
+</table>
+    <div class="showAll tvList1More">
+        <a href="/browse/tv-list-1/" class="unstyled articleLink">View All</a>
+    </div>
+<h3>Most Popular TV on RT</h3>
+    <table class="movie_list tv_list">
+        <tr class="tv_show_tr tvList2">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_terror/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">91%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_terror/s01">The Terror</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList2">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/wild_wild_country/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/wild_wild_country/s01">Wild Wild Country</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList2">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/counterpart/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/counterpart/s01">Counterpart</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList2">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/barry/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/barry/s01">Barry</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList2">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/sneaky_pete/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/sneaky_pete/s01">Sneaky Pete</a>
+    </td>
+</tr>
+</table>
+    <div class="showAll tvList2More">
+        <a href="/browse/tv-list-2/" class="unstyled articleLink">View All</a>
+    </div>
+<h3>Certified Fresh TV</h3>
+    <table class="movie_list tv_list">
+        <tr class="tv_show_tr tvList3">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/counterpart/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/counterpart/s01">Counterpart</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList3">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/atlanta/s02">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/atlanta/s02">Atlanta</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList3">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/wild_wild_country/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/wild_wild_country/s01">Wild Wild Country</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList3">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/barry/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/barry/s01">Barry</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList3">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/black_lightning/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">97%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/black_lightning/s01">Black Lightning</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList3">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/queer_eye_2018/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">96%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/queer_eye_2018/s01">Queer Eye</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList3">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_looming_tower/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">96%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_looming_tower/s01">The Looming Tower</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList3">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/this_is_us/s02">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">92%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/this_is_us/s02">This Is Us</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList3">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/grown_ish/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">91%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/grown_ish/s01">grown-ish</a>
+    </td>
+</tr>
+<tr class="tv_show_tr tvList3">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_terror/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">91%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_terror/s01">The Terror</a>
+    </td>
+</tr>
+</table>
+    <div class="showAll tvList3More" style="margin-bottom:10px">
+        <a href="/browse/tv-list-3/" class="unstyled articleLink">View All</a>
+    </div>
+</section>
+        </div>
+    </nav>
+    <aside class="panel-rt" style="border-bottom:none">
+        <div class="panel-body" style="padding:0px;">
+            <aside id="medrec_top_ad" class="medrec_ad " style="width:300px"></aside>
+    <script>
+                var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function() {
+                    if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+                        mps.insertAd('#medrec_top_ad','topmulti');
+                    }
+                });
+            </script>
+        </div>
+    </aside>
+</div>
+<div id="sponsored_media_sidebar_ad" style="height:0"></div>
+    <script>
+        var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+        mps._queue.gptloaded.push(function() {
+            if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+                mps.insertAd('#sponsored_media_sidebar_ad','featuredmediadetail');
+            }
+        });
+    </script>
+</aside>
+
+        <div id="mainColumn" class="col mob col-center-right col-full-xs">
+            <div id="heroImageContainer" class="movie">
+                    <div class="heroImage movie noCursor" style="background-image:url('https://resizing.flixster.com/ON4xeREmyUf-e-GoCxiwGjVSp0A=/740x290/v1.bjs3MjA4OTtqOzE3NjQwOzEyMDA7MTMwNDs5Nzg')">
+                                <h1 class="title hidden-xs no-trailer-title" data-type="title">
+                                    Marwencol<span class="h3 year no-trailer-year">2010</span>
+</h1>
+                            </div>
+                        </div>
+            <div id="movie-admin-panel" class="admin_panel"></div>
+<script type="text/template" id="adminPanelTemplate">
+<@ if (roles['MOVIEEXTRA'] || roles['MOVIE'] || roles['ADMIN'] || roles['EDITORIAL'] || roles['TOMATAZOS']) { @>
+    <div class="fr" style="padding:5px 5px 0 0;">771198393 - <a href="#" onclick="$('#adminMenu').toggle();">Admin Menu</a></div>
+    <div id="adminMenu" style="display:none;">
+        <section id="" class="panel panel-rt panel-box " >
+    <h2 class="panel-heading">Admin Menu</h2>
+    <div class="panel-body content_body">
+        <ul class="col_p col_50">
+                <li>Movie Id: 771198393</li>
+                <li>Status: </li>
+                <li>Embed Code: <br /><input type="text" size="40" onclick="this.select()" value="[tomatoscore]MovieId=771198393,size=tiny[/tomatoscore]" /></li>
+                <li>Embed Video:<br /><input type="text" size="40" onclick="this.select()" value="[rtmaintrailer]MovieId=771198393[/rtmaintrailer]" /></li>
+            </ul>
+            <ul class="col_p col_50">
+                <@ if (roles['MOVIEEXTRA'] || roles['MOVIE'] || roles['ADMIN']) { @>
+                    <li class="action_icon"><a rel="nofollow" href="//admin.flixster.com/admin/movie-stats/771198393" target="_blank">Movie Stats</a></li>
+                    <li class="action_icon"><a rel="nofollow" href="//admin.flixster.com/admin/movie/manage/771198393" target="_blank">Edit Movie Details</a></li>
+                    <li class="action_icon"><a rel="nofollow" href="//admin.flixster.com/movie-facts/service/rt-loadquotes?renderpage=true&movieid=771198393&showall=true" target="_blank">Manage Quotes</a></li>
+                    <li class="action_icon"><a rel="nofollow" href="//admin.flixster.com/admin/manage-characters?movie=771198393" target="_blank">Manage Characters</a></li>
+                    <li class="action_icon"><a rel="nofollow" href="//admin.flixster.com/admin/trailers?movieId=771198393" target="_blank">Manage Trailers</a></li>
+                    <li class="action_icon"><a rel="nofollow" href="//admin.flixster.com/admin/movie-history?movieId=771198393" target="_blank">History</a></li>
+                    <li class="action_icon"><a rel="nofollow" href="//admin.flixster.com/admin/rt/manage-movie-images?oid=771198393&otype=movie" target="_blank">Manage Professional Images</a></li>
+                <@ } @>
+                <@ if (roles['EDITORIAL'] || roles['ADMIN']) { @>
+                    <li class="action_icon"><a rel="nofollow" href="//admin.flixster.com/admin/movie/manage/771198393/editorial" target="_blank">Critics Consensus / Certified Fresh</a></li>
+                <@ } @>
+                <@ if (roles['EDITORIAL'] || roles['ADMIN'] || roles['TOMATAZOS']) { @>
+                    <li class="action_icon"><a rel="nofollow" href="//admin.flixster.com/admin/critics/reviews/movie/771198393" target="_blank">Movie Review Manager</a></li>
+                <@ } @>
+            </ul>
+        </div>
+</section>
+</div>
+<@ } @>
+</script>
+<h1 id="movie-title" class="title clearfix visible-xs" data-type="title">
+                Marwencol<span class="h3 year"> (2010)</span>
+</h1>
+            <div id="topSection">
+                <div id="movie-image-section" class="col-sm-7 col-xs-9">
+                    <div class="center">
+                        <img src="https://resizing.flixster.com/3hOAq1_EN-_w_X-Yy9TGw8vE9UM=/206x305/v1.bTsxMTE1MjY3NDtqOzE3NzI0OzEyMDA7NjQ4Ozk2MA" alt="Marwencol" class="posterImage"><div id="critics-add-article" class="hidden-xs" style="display:none;">
+                            <a href="/critics/tools/movie/?movieId=771198393">Add Article</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="scorePanel" class="score_panel col-sm-17 col-xs-15">
+    <div class="col-sm-16 col-xs-12 tmeter-panel">
+        <ul class="pull-right hidden-xs" role="tablist">
+            <li class="active pull-left critics-score">
+                <a href="#all-critics-numbers" role="tab" data-toggle="tab" class="articleLink unstyled smaller gray superPageFontColor">
+                    All Critics
+                </a>
+            </li>
+            <li class="pull-left superPageFontColor"> | </li>
+            <li class="pull-left critics-score">
+                <a href="#top-critics-numbers" role="tab" data-toggle="tab" class="articleLink unstyled smaller gray superPageFontColor">
+                    Top Critics
+                </a>
+            </li>
+        </ul>
+        <h3 class="scoreTitle superPageFontColor">
+            TOMATOMETER <span class="glyphicon glyphicon-question-sign hidden-xs" data-toggle="tooltip" data-placement="bottom" title="The percentage of Approved Tomatometer Critics who have given this movie a positive review"></span>
+        </h3>
+        <div class="tab-content">
+            <div id="all-critics-numbers" class="tab-pane active">
+                        <div class="row">
+            <div class="col-sm-12">
+                <div class="tomato-left">
+                    <div class="critic-score meter">
+                        <a href="#contentReviews" class="unstyled articleLink" id="tomato_meter_link">
+                        <span class="meter-tomato icon big medium-xs certified_fresh pull-left"></span>
+                            <span class="meter-value superPageFontColor"><span>98</span>%</span>
+                        </a>
+                        </div>
+                    <div id="scoreStats" class="hidden-xs">
+                            <div class="superPageFontColor">
+                                <span class="subtle superPageFontColor">Average Rating: </span>
+                                8.4/10
+                                    </div>
+                            <div class="superPageFontColor">
+                                <span class="subtle superPageFontColor">Reviews Counted: </span><span>59</span>
+                            </div>
+                            <div class="superPageFontColor">
+                                <span class="subtle superPageFontColor audience-info">Fresh: </span>
+                                <span>58</span>
+                            </div>
+                            <div class="superPageFontColor">
+                                <span class="subtle superPageFontColor audience-info">Rotten: </span>
+                                <span>1</span>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="col-sm-12 tomato-info hidden-xs" style="padding-left:0">
+                <div class="progress">
+                    <div class="progress-bar certified_fresh" style="width:98%;"></div>
+                </div>
+                <p class="critic_consensus superPageFontColor">
+                        <span class="subtle superPageFontColor">Critics Consensus:</span>
+                        Inspiring and fascinating, <em>Marwencol</em> depicts its subject with heartfelt tenderness, raising poignant questions about art and personal tragedy along the way.</p>
+                </div>
+        </div>
+    </div>
+                    <div id="top-critics-numbers" class="tab-pane">
+                        <div class="row">
+            <div class="col-sm-12">
+                <div class="tomato-left">
+                    <div class="critic-score meter">
+                        <a href="#contentReviews" class="unstyled articleLink" id="tomato_meter_link">
+                        <span class="meter-tomato icon big medium-xs certified_fresh pull-left"></span>
+                            <span class="meter-value superPageFontColor"><span>100</span>%</span>
+                        </a>
+                        </div>
+                    <div id="scoreStats" class="hidden-xs">
+                            <div class="superPageFontColor">
+                                <span class="subtle superPageFontColor">Average Rating: </span>
+                                8.3/10
+                                    </div>
+                            <div class="superPageFontColor">
+                                <span class="subtle superPageFontColor">Reviews Counted: </span><span>21</span>
+                            </div>
+                            <div class="superPageFontColor">
+                                <span class="subtle superPageFontColor audience-info">Fresh: </span>
+                                <span>21</span>
+                            </div>
+                            <div class="superPageFontColor">
+                                <span class="subtle superPageFontColor audience-info">Rotten: </span>
+                                <span>0</span>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="col-sm-12 tomato-info hidden-xs" style="padding-left:0">
+                <div class="progress">
+                    <div class="progress-bar certified_fresh" style="width:100%;"></div>
+                </div>
+                <p class="critic_consensus superPageFontColor">
+                        <span class="subtle superPageFontColor">Critics Consensus:</span>
+                        Inspiring and fascinating, <em>Marwencol</em> depicts its subject with heartfelt tenderness, raising poignant questions about art and personal tragedy along the way.</p>
+                </div>
+        </div>
+    </div>
+                </div>
+    </div>
+    <div class="col-sm-8 col-xs-12 audience-panel">
+        <h3 class="scoreTitle superPageFontColor">
+     AUDIENCE SCORE
+        <span class="glyphicon glyphicon-question-sign hidden-xs" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="The percentage of users who have rated this movie 3.5 stars or higher"></span>
+</h3>
+<div class="audience-score meter">
+    <a href="#audience_reviews" class="unstyled articleLink"><div class="meter media">
+                    <div class="meter-tomato icon big medium-xs upright pull-left"></div>
+                    <div class="media-body" style="line-height:36px">
+                        <div class="meter-value">
+                            <span class="superPageFontColor" style="vertical-align:top">87%</span>
+                        </div>
+                        <div class="smaller bold hidden-xs superPageFontColor" style="padding-left:5px;line-height:12px">liked it</div>
+                    </div>
+                </div>
+            </a>
+</div>
+<div class="audience-info hidden-xs superPageFontColor">
+    <div>
+            <span class="subtle superPageFontColor">Average Rating:</span>
+            4/5
+                </div>
+    <div>
+        <span class="subtle superPageFontColor">User Ratings:</span>
+        2,375</div>
+</div>
+</div>
+    <div class="col-full-xs visible-xs clearfix">
+        <p class="critic_consensus tomato-info noSpacing superPageFontColor">
+            <span class="subtle superPageFontColor">Critic Consensus:</span>
+            Inspiring and fascinating, <em>Marwencol</em> depicts its subject with heartfelt tenderness, raising poignant questions about art and personal tragedy along the way.</p>
+    </div>
+    <div id="tomatometer_sponsorship_ad" class="page_ad hidden-xs" style="margin-left:-10px"></div>
+</div>
+<script>
+var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+mps._queue.gptloaded.push(function() {
+    if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+        mps.insertAd('#tomatometer_sponsorship_ad','tomatometer');
+    }
+});
+</script><div id="mobile-movie-image-section" class="pull-left col-full-xs visible-xs" style="text-align:center;"></div>
+                <div id="affiliate_integration_button_ad" style="height:0px;display:none"></div>
+<script>
+    var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+    mps._queue.gptloaded.push(function() {
+        if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+            mps.rt.insertlogo('#affiliate_integration_button_ad', 'ploc=affiliateintegrationbutton;');
+        }
+    });
+</script>
+
+<div id="rating-root"></div>
+<script>
+require(["jquery", "globals", "underscore", "https://staticv2-4.rottentomatoes.com/static/dist/app/controllers/RatingController.min.js", "bootstrap", "domReady!"],function($, RT, _, Rating){
+    new Rating({ mediaId: 771198393, type: "movie" });
+});
+</script>
+</div>
+            <aside id="interscroller_ad" class="interscroller_ad visible-xs center mobile-interscroller " style="width:300px"></aside>
+    <script>
+        var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+        mps._queue.gptloaded.push(function() {
+            if (mps.getResponsiveSet() =='0') { //MOBILE
+                mps.insertAd('#interscroller_ad','interscroller');
+            }
+        });
+    </script>
+<section id="movie-photos-panel" class="panel panel-rt panel-box ">
+    <h2 class="panel-heading">
+<em>Marwencol</em> Photos</h2>
+    <div class="panel-body content_body allow-overflow">
+        <div id="photos-carousel-root"></div>
+        <div class="clickForMore viewMorePhotos">
+            <a class="unstyled articleLink pull-right" href="/m/marwencol/pictures/">
+                <div>
+                    View All Photos (10)</div>
+            </a>
+        </div>
+        <script>
+            (function() {
+                var photos = [{"id":"h-69498","type":"image","width":700,"format":"JPG","caption":"","thumborId":"v1.aDs2OTQ5ODtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","height":475,"urls":{"thumbnail":"https://resizing.flixster.com/_YtaWU8aQBj2U8Rr1_oZyzM-Rdk=/300x300/v1.aDs2OTQ5ODtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","fullscreen":"https://resizing.flixster.com/-a5kwLUt5y6hhzEx4lIx3mPUZPo=/fit-in/1152x864/v1.aDs2OTQ5ODtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ"},"alt":"Marwencol"},{"id":"h-69499","type":"image","width":700,"format":"JPG","caption":"","thumborId":"v1.aDs2OTQ5OTtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","height":475,"urls":{"thumbnail":"https://resizing.flixster.com/H-8MCMqz4G3LsHszGDJvsw3cnrA=/300x300/v1.aDs2OTQ5OTtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","fullscreen":"https://resizing.flixster.com/cx30hIX3kbYOYTpPHlhDLahNeQk=/fit-in/1152x864/v1.aDs2OTQ5OTtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ"},"alt":"Marwencol"},{"id":"h-69500","type":"image","width":700,"format":"JPG","caption":"","thumborId":"v1.aDs2OTUwMDtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","height":475,"urls":{"thumbnail":"https://resizing.flixster.com/Ey9bc5Ab6zkibOHwxFdnysd-kgs=/300x300/v1.aDs2OTUwMDtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","fullscreen":"https://resizing.flixster.com/gUvc72x8Z1fEEBhd-HuF80OYo_8=/fit-in/1152x864/v1.aDs2OTUwMDtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ"},"alt":"Marwencol"},{"id":"h-69501","type":"image","width":700,"format":"JPG","caption":"","thumborId":"v1.aDs2OTUwMTtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","height":475,"urls":{"thumbnail":"https://resizing.flixster.com/EFNAD1OHnkddgbyLBg4U6PuPeoc=/300x300/v1.aDs2OTUwMTtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","fullscreen":"https://resizing.flixster.com/C_-KeksxiBkNQzHNB4Tl3vE6_Tk=/fit-in/1152x864/v1.aDs2OTUwMTtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ"},"alt":"Marwencol"},{"id":"h-69502","type":"image","width":700,"format":"JPG","caption":"","thumborId":"v1.aDs2OTUwMjtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","height":475,"urls":{"thumbnail":"https://resizing.flixster.com/8LiQHQCmonaJXyShJCGFwK5ml00=/300x300/v1.aDs2OTUwMjtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","fullscreen":"https://resizing.flixster.com/IKzpkUTESYdhfec18P4O9ywrHjk=/fit-in/1152x864/v1.aDs2OTUwMjtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ"},"alt":"Marwencol"},{"id":"h-69503","type":"image","width":700,"format":"JPG","caption":"","thumborId":"v1.aDs2OTUwMztqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","height":475,"urls":{"thumbnail":"https://resizing.flixster.com/8MXTK1tJGF9hKMji7JjCNyk4SRI=/300x300/v1.aDs2OTUwMztqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","fullscreen":"https://resizing.flixster.com/SO86OSkl9Qyd95lXHhYSTNr7c1U=/fit-in/1152x864/v1.aDs2OTUwMztqOzE3NjQwOzEyMDA7NzAwOzQ3NQ"},"alt":"Marwencol"},{"id":"h-69504","type":"image","width":700,"format":"JPG","caption":"","thumborId":"v1.aDs2OTUwNDtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","height":475,"urls":{"thumbnail":"https://resizing.flixster.com/iexGWZ133YhvVvm5RzuZHtUjh4s=/300x300/v1.aDs2OTUwNDtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","fullscreen":"https://resizing.flixster.com/2scLOcJ45Wq8iPeCGgMCgqmtrQw=/fit-in/1152x864/v1.aDs2OTUwNDtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ"},"alt":"Marwencol"},{"id":"h-69505","type":"image","width":700,"format":"JPG","caption":"","thumborId":"v1.aDs2OTUwNTtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","height":475,"urls":{"thumbnail":"https://resizing.flixster.com/kPaoq_5g1fhoCqgGsZc1wf1ng5g=/300x300/v1.aDs2OTUwNTtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ","fullscreen":"https://resizing.flixster.com/JkvkBkG_AFeuttz8Ry3eNz5WuE0=/fit-in/1152x864/v1.aDs2OTUwNTtqOzE3NjQwOzEyMDA7NzAwOzQ3NQ"},"alt":"Marwencol"},{"id":"n-72087","type":"image","width":640,"format":"JPG","caption":null,"thumborId":"v1.bjs3MjA4NztqOzE3NjQwOzEyMDA7NjQwOzQ4MA","height":480,"urls":{"thumbnail":"https://resizing.flixster.com/GFqr3TTaY_SI8urj-orntZQybqo=/300x300/v1.bjs3MjA4NztqOzE3NjQwOzEyMDA7NjQwOzQ4MA","fullscreen":"https://resizing.flixster.com/CsAW_Oww-YDriF-aUs-BAsWaNas=/fit-in/1152x864/v1.bjs3MjA4NztqOzE3NjQwOzEyMDA7NjQwOzQ4MA"},"alt":"Marwencol"},{"id":"n-72089","type":"image","width":1304,"format":"JPG","caption":null,"thumborId":"v1.bjs3MjA4OTtqOzE3NjQwOzEyMDA7MTMwNDs5Nzg","height":978,"urls":{"thumbnail":"https://resizing.flixster.com/nopS2pmerSqhIyxIJT3jFSOcLbg=/300x300/v1.bjs3MjA4OTtqOzE3NjQwOzEyMDA7MTMwNDs5Nzg","fullscreen":"https://resizing.flixster.com/Z53GF0-akt6LNDZrXOKlJRbFXsU=/fit-in/1152x864/v1.bjs3MjA4OTtqOzE3NjQwOzEyMDA7MTMwNDs5Nzg"},"alt":"Marwencol"}];
+                require(["photos-carousel"], function(mount) {
+                    mount(document.getElementById('photos-carousel-root'), photos, { slidesToShow: 3, slidesToScroll: 3 - 1}, { slidesToShow: 4, slidesToScroll: 4});
+                });
+            })();
+        </script>
+    </div>
+</section>
+<aside class="str-ad">
+                <div class="visible-xs">
+                    <div id="sharethrough_top_ad"></div>
+    <script>
+        var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+        mps._queue.gptloaded.push(function() {
+            if (mps.getResponsiveSet() =='0') { //MOBILE
+                mps.insertAd('#sharethrough_top_ad','sharethrough','strnativekey=b9QEvHRnA3pDEDZ6CpgtS2vx;pos=top;');
+            }
+        });
+    </script>
+</div>
+            </aside>
+            <section class="panel panel-rt panel-box movie_info media">
+                <aside class="pull-right">
+                        <div id="outbrainTopMobAd" class="hidden-xs"></div>
+                </aside>
+                <div class="media-body">
+                 <div class="heading-wrapper"></div>
+                    <h2 class="panel-heading">Movie Info</h2>
+                    <div class="panel-body content_body">
+                        <div id="movieSynopsis" class="movie_synopsis clamp clamp-6" style="clear:both">
+    On April 8, 2000, Mark Hogancamp was brutally attacked by five men in his hometown of Kingston, New York. The assault left the ex-navyman, carpenter, and showroom designer in a coma for nine days; he emerged with brain damage that initially made it impossible for him to walk, eat, or speak. Physical and occupational therapy helped him regain basic motor skills, but after less than a year he discovered that without insurance, he could no longer afford it. Determined "not to let those five guys win," Hogancamp turned to art as a therapeutic tool. He revisited his childhood hobbies of collecting toy soldiers and building and painting models. Commandeering a pile of scrap wood left behind by a contractor, he constructed "Marwencol," a fictional Belgian town built to one-sixth scale in his backyard. He populated it with military figurines and Barbie dolls representing World War II personages like Patton and Hitler as well as stand-ins for himself, his friends, and his family. Finally, he dusted off an old camera and used it to capture staged events ranging from pitched battles between occupying German and American forces to catfights in the town bar.-- (C) Cinema Guild</div>
+<ul class="content-meta info">
+    <li class="meta-row clearfix">
+            <div class="meta-label subtle">Rating: </div>
+            <div class="meta-value">NR</div>
+        </li>
+    <li class="meta-row clearfix">
+            <div class="meta-label subtle">Genre: </div>
+            <div class="meta-value">
+                <a href="/browse/opening/?genres=8">
+                        Documentary</a>, <a href="/browse/opening/?genres=14">
+                        Science Fiction &amp; Fantasy</a>
+</div>
+        </li>
+    <li class="meta-row clearfix">
+            <div class="meta-label subtle">Directed By: </div>
+            <div class="meta-value">
+                <a href="/celebrity/jeff_malmberg">Jeff Malmberg</a>
+</div>
+        </li>
+    <li class="meta-row clearfix js-theater-release-dates">
+            <div class="meta-label subtle">In Theaters: </div>
+            <div class="meta-value">
+                <time datetime="2010-10-07T17:00:00-07:00">Oct 8, 2010</time>
+                <span style="text-transform:capitalize"> limited</span>
+            </div>
+        </li>
+    <li class="meta-row clearfix">
+            <div class="meta-label subtle">On Disc/Streaming: </div>
+            <div class="meta-value">
+                <time datetime="2011-04-11T17:00:00-07:00">Apr 12, 2011</time>
+            </div>
+        </li>
+    <li class="meta-row clearfix">
+            <div class="meta-label subtle">Box Office: </div>
+            <div class="meta-value">$112,036</div> </li>
+    <li class="meta-row clearfix">
+            <div class="meta-label subtle">Runtime: </div>
+            <div class="meta-value">
+                <time datetime="P83M">
+                    83 minutes
+                </time>
+            </div>
+        </li>
+    <li class="meta-row clearfix">
+        <div class="meta-label subtle">Studio: </div>
+        <div class="meta-value">
+            <a href="http://www.marwencol.com" target="movie-studio">The Cinema Guild</a>
+                </div>
+    </li>
+</ul>
+</div>
+                </div>
+            </section>
+            <section id="watch-it-now" class="panel panel-rt panel-box ">
+    <h2 class="panel-heading">Watch it now</h2>
+    <div class="panel-body content_body">
+        <div class="movie_links">
+            <a class="streamNow" target="blank" onclick="trackAffiliateEvent('netflix')" href="http://api.netflix.com/catalog/titles/movies/70134648">
+                        <div id="netflixAffiliates" class="col-sm-6 col-xs-8 affiliates">
+                            <div class="logo">
+                                <div class="netflix"></div>
+                            </div>
+                            <div class="price-col">
+                                Watch now
+                            </div>
+                        </div>
+                    </a>
+                <a target="blank" onclick="trackAffiliateEvent('itunes')" href="https://itunes.apple.com/us/movie/marwencol/id456998679?uo=5">
+                    <div id="itunesAffiliates" class="col-sm-6 col-xs-8 affiliates">
+                        <div class="logo">
+                            <div class="itunes"></div>
+                        </div>
+                        <div class="price-col">
+                            Watch now
+                        </div>
+                    </div>
+                </a>
+            </div>
+    </div>
+</section>
+<script>
+function trackAffiliateEvent(affiliate) {
+    if ("Krux" in window) {
+        //track affiliate event for Krux
+        var affiliateCode;
+        switch(affiliate) {
+            case "flixster":
+                affiliateCode = 'Jeq4X1vM';
+                break;
+            case "vudu":
+                affiliateCode = 'Jeq4QIYQ';
+                break;
+            case "target":
+                affiliateCode = 'Jeq4h9Us';
+                break;
+            case "amazon":
+                affiliateCode = 'Jeq4Nhvx';
+                break;
+            case "itunes":
+                affiliateCode = 'Jeq3zLy7';
+                break;
+            case "netflix":
+                affiliateCode = 'Jeq4B6OX';
+                break;
+        }
+        Krux('admEvent',affiliateCode,{});
+    }
+}
+</script><div class="centered">
+                <aside id="medrec_mobile_mob_top_ad" class="medrec_ad visible-xs center mobile-medrec" style="width:300px"></aside>
+    <script>
+                var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function() {
+                    if (mps.getResponsiveSet() =='0') { //MOBILE
+                        mps.insertAd('#medrec_mobile_mob_top_ad','mboxadone');
+                    }
+                });
+            </script>
+        </div>
+            <section id="" class="panel panel-rt panel-box ">
+    <h2 class="panel-heading">Cast</h2>
+    <div class="panel-body content_body">
+        <div class="castSection ">
+        <div class="cast-item media inlineBlock ">
+    <a href="/celebrity/mark_hogancamp_3" class="pull-left">
+        <img src="https://staticv2-4.rottentomatoes.com/static/images/redesign/actor.default.tmb.gif" class="actorThumb medium media-object"></a>
+    <div class="media-body">
+        <a href="/celebrity/mark_hogancamp_3" class="unstyled articleLink">
+            <span title="Mark Hogancamp">
+                Mark Hogancamp</span>
+        </a>
+        </div>
+</div>
+</div>
+</div>
+</section>
+<div id="friend-reviews-root"></div>
+<script>
+(function() {
+    require(["friend-ratings"], function(mount) {
+        mount(document.getElementById('friend-reviews-root'), 771198393);
+    });
+})();
+</script>
+<section id="contentReviews" class="panel panel-rt panel-box ">
+    <h2 class="panel-heading">Critic Reviews for <em>Marwencol</em>
+</h2>
+    <div class="panel-body content_body">
+        <p id="criticHeaders">
+                <a class="small unstyled subtle articleLink" href="/m/marwencol/reviews/">All Critics (59)</a>
+                | <a class="small unstyled subtle articleLink" href="/m/marwencol/reviews/?type=top_critics">Top Critics (21)</a><span class="hidden-xs" style="display:inline">
+                    | <a class="small unstyled subtle articleLink" href="/m/marwencol/reviews/?sort=fresh">Fresh (58)</a>
+                    | <a class="small unstyled subtle articleLink" href="/m/marwencol/reviews/?sort=rotten">Rotten (1)</a>
+                    | <a class="small unstyled subtle articleLink" href="/m/marwencol/reviews/?type=dvd">DVD (3)</a></span>
+            </p>
+        <div id="reviews">
+            <div class="quote_bubble top_critic pull-left cl">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="Original Score: 3/4" class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    Simultaneously hypnotic and unnerving, it asks some rather uncomfortable questions about the nature of art and the potential and limits of self-healing.</p>
+                <div class="pull-right smaller">
+                    December 28, 2010 | Rating: 3/4</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://staticv2-4.rottentomatoes.com/static/images/redesign/user.none.tmb.jpg" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/john-hartl/">John Hartl</a></div>
+<div><a class="small subtle articleLink" href="/source-505">Seattle Times</a></div>
+<div class="small superreviewer">
+<span class="glyphicon glyphicon-star"></span> Top Critic</div>
+            </div>
+    </div>
+</div>
+<div class="quote_bubble top_critic pull-right cr">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="Original Score: 3/4" class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    Director Jeff Malmberg sees something in Hogancamp that he wants all of us to see, an imperfect human scarred by horrific trauma who nonetheless finds a reason to live.</p>
+                <div class="pull-right smaller">
+                    December 28, 2010 | Rating: 3/4 | <a href="http://www.thestar.com/entertainment/movies/article/885851--marwencol-a-tiny-world-within" target="_blank">Full Review…</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://staticv2-4.rottentomatoes.com/static/images/redesign/user.none.tmb.jpg" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/bruce-demara/">Bruce Demara</a></div>
+<div><a class="small subtle articleLink" href="/source-450">Toronto Star</a></div>
+<div class="small superreviewer">
+<span class="glyphicon glyphicon-star"></span> Top Critic</div>
+            </div>
+    </div>
+</div>
+<div class="quote_bubble top_critic pull-left cl">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="Original Score: 3.5/4" class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    Hogancamp's alliance with director Jeff Malmberg in this artful and poignant film marks a victory in the war against the self.</p>
+                <div class="pull-right smaller">
+                    December 17, 2010 | Rating: 3.5/4 | <a href="http://www.stltoday.com/entertainment/movies/reviews/article_caed5819-0cf9-5696-badf-cb0d392bce03.html" target="_blank">Full Review…</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://resizing.flixster.com/rF1Symum8w3rLxsldzDBCXJOaso=/50x50/v1.YzsxNzg2O2o7MTc2NDA7MTIwMDszODs0NQ" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/joe-williams/">Joe Williams</a></div>
+<div><a class="small subtle articleLink" href="/source-429">St. Louis Post-Dispatch</a></div>
+<div class="small superreviewer">
+<span class="glyphicon glyphicon-star"></span> Top Critic</div>
+            </div>
+    </div>
+</div>
+<div class="quote_bubble top_critic pull-right cr">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="Original Score: 3/4" class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    A fine, delicately nuanced portrait of an artist compelled by mysterious forces to create something utterly unique.</p>
+                <div class="pull-right smaller">
+                    December 10, 2010 | Rating: 3/4 | <a href="http://www.washingtonpost.com/gog/movies/marwencol,1166847/critic-review.html" target="_blank">Full Review…</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://resizing.flixster.com/WS7CdMmB6Fi4bIGVbQnkLzM5fTM=/50x50/v1.YzsyNTg1O2c7MTc2NDA7MTIwMDsxNTA7MTUw" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/ann-hornaday/">Ann Hornaday</a></div>
+<div><a class="small subtle articleLink" href="/source-474">Washington Post</a></div>
+<div class="small superreviewer">
+<span class="glyphicon glyphicon-star"></span> Top Critic</div>
+            </div>
+    </div>
+</div>
+<div class="quote_bubble top_critic pull-left cl">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="Original Score: 3/4" class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    If you have even a passing interest in outsider art, you owe it to yourself to see "Marwencol."</p>
+                <div class="pull-right smaller">
+                    December 2, 2010 | Rating: 3/4 | <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/12/02/MVAQ1GJFGL.DTL" target="_blank">Full Review…</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://staticv2-4.rottentomatoes.com/static/images/redesign/user.none.tmb.jpg" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/walter-v-addiego/">Walter V. Addiego</a></div>
+<div><a class="small subtle articleLink" href="/source-402">San Francisco Chronicle</a></div>
+<div class="small superreviewer">
+<span class="glyphicon glyphicon-star"></span> Top Critic</div>
+            </div>
+    </div>
+</div>
+<div class="quote_bubble top_critic pull-right cr">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="Original Score: 4/4" class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    Producer/director Jeff Malmberg tells the amazing true story with tenderness and tact.</p>
+                <div class="pull-right smaller">
+                    December 2, 2010 | Rating: 4/4 | <a href="http://www.startribune.com/movies/" target="_blank">Full Review…</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://resizing.flixster.com/NDohT_dkAtZnMQm3p944xpyZsXE=/50x50/v1.YzsyNjQ0O2c7MTc2NDA7MTIwMDsxNTA7MTUw" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/colin-covert/">Colin Covert</a></div>
+<div><a class="small subtle articleLink" href="/source-648">Minneapolis Star Tribune</a></div>
+<div class="small superreviewer">
+<span class="glyphicon glyphicon-star"></span> Top Critic</div>
+            </div>
+    </div>
+</div>
+<div class="quote_bubble hidden-xs pull-left cl">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    Extraordinary, astonishing, revealing, unique </p>
+                <div class="pull-right smaller">
+                    September 9, 2012 | <a href="http://www.urbancinefile.com.au/home/view.asp?a=18991&amp;s=Reviews" target="_blank">Full Review…</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://resizing.flixster.com/MY4eXlHfFFPe3JP9pU4Ie1LBnNc=/50x50/v1.YzsyODQ2O2c7MTc2NDA7MTIwMDsxNTA7MTUw" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/andrew-l-urban/">Andrew L. Urban</a></div>
+<div><a class="small subtle articleLink" href="/source-462">Urban Cinefile</a></div>
+</div>
+    </div>
+</div>
+<div class="quote_bubble hidden-xs pull-right cr">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    Truly inspiring</p>
+                <div class="pull-right smaller">
+                    September 9, 2012 | <a href="http://www.urbancinefile.com.au/home/view.asp?a=18991&amp;s=Reviews" target="_blank">Full Review…</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://resizing.flixster.com/MP3UUtvDK5Zh5nVtCRTnmtE671I=/50x50/v1.YzsyODQ3O2c7MTc2NDA7MTIwMDsxNTA7MTUw" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/louise-keller/">Louise Keller</a></div>
+<div><a class="small subtle articleLink" href="/source-462">Urban Cinefile</a></div>
+</div>
+    </div>
+</div>
+<div class="quote_bubble hidden-xs pull-left cl">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="Original Score: 5/5" class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    The film is never flippant, never disrespectful and always approaches Mark's hobby with eyes wide open and no agenda other than fascinated admiration.</p>
+                <div class="pull-right smaller">
+                    September 8, 2012 | Rating: 5/5 | <a href="http://www.themercury.com.au/article/2012/09/08/359925_movie-reviews.html" target="_blank">Full Review…</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://resizing.flixster.com/aoctlqPAns3lN6AC1918EE7Wh9g=/50x50/v1.YzsyMjQ2O2o7MTc2NDA7MTIwMDs3Mjs3Mg" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/tim-martain/">Tim Martain</a></div>
+<div><a class="small subtle articleLink" href="/source-2357">The Mercury</a></div>
+</div>
+    </div>
+</div>
+<div class="quote_bubble hidden-xs pull-right cr">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    Alternate realities help us work through issues, but might keep us from confronting the world</p>
+                <div class="pull-right smaller">
+                    September 30, 2011 | <a href="http://www.moviehabit.com/review.php?story=mar_li10" target="_blank">Full Review…</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://resizing.flixster.com/tDE7yyq4HJsZNWhrxv1Vv1ZCLyY=/50x50/v1.YzsxNTkxO2c7MTc2NDA7MTIwMDszODs0OA" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/robert-denerstein/">Robert Denerstein</a></div>
+<div><a class="small subtle articleLink" href="/source-296">Movie Habit</a></div>
+</div>
+    </div>
+</div>
+<div class="quote_bubble hidden-xs pull-left cl">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="Original Score: 82/100" class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    By allowing his emerging post-trauma experience into his pretend kingdom, the man is reconstituting his self-consciousness, reclaiming the dignity of his whole mind, recovering his soul.</p>
+                <div class="pull-right smaller">
+                    August 20, 2011 | Rating: 82/100 | <a href="http://djardine.blogspot.com/2011/08/marwencol-usa-2010-jeff-malmberg-ben.html" target="_blank">Full Review…</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://resizing.flixster.com/tCCPYlAKvdaRWrTV4-_7J6JZG48=/50x50/v1.YzsxNTg5O2c7MTc2NDA7MTIwMDszODs0Mw" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/dan-jardine/">Dan Jardine</a></div>
+<div><a class="small subtle articleLink" href="/source-1522">Cinemania</a></div>
+</div>
+    </div>
+</div>
+<div class="quote_bubble hidden-xs pull-right cr">
+    <div class="review_quote">
+        <div class="media">
+            <div class="pull-left">
+                <span rel="tooltip" data-toggle="tooltip" data-placement="right" title="Original Score: A-" class="media-img icon small fresh"></span>
+            </div>
+            <div class="media-body">
+                <p>
+                    First-time director Jeff Malmberg does almost everything right in this stunningly empathetic documentary. </p>
+                <div class="pull-right smaller">
+                    March 13, 2011 | Rating: A- | <a href="http://metrotimes.com/screens/marwencol-1.1117529" target="_blank">Full Review…</a>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://staticv2-4.rottentomatoes.com/static/images/redesign/user.none.tmb.jpg" class="critic_thumb media-img">
+</div>
+        <div class="media-body">
+            <div><a class="unstyled articleLink" href="/critic/jeff-meyers/">Jeff Meyers</a></div>
+<div><a class="small subtle articleLink" href="/source-495">Metro Times (Detroit, MI)</a></div>
+</div>
+    </div>
+</div>
+</div>
+ 	<div class="view-all">
+                <a class="view_all_critic_reviews" href="/m/marwencol/reviews/">View All Critic Reviews (59)</a>
+        </div>
+        </div>
+</section>
+<section id="audience_reviews" class="panel panel-rt panel-box ">
+    <h2 class="panel-heading">Audience Reviews for <em>Marwencol</em>
+</h2>
+    <div class="panel-body content_body">
+        <div>
+                    <div class="quote_bubble fl cl">
+    <div id="quoteBubble73477" class="review_quote">
+        <div class="media">
+            <div class="media-body">
+                <div class="starHeader">
+                    <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>½</div>
+                <p class="comment clamp clamp-6">
+                   "Marwencol" is an intriguing documentary about an intriguing individual, Mark Hogancamp.  On a general level, it is concerned with identity, as after having been savagely beaten outside of a bar in Kingston, NY, that leaves him in a coma for nine days and requiring facial reconstruction surgery, he suffers from brain damage that causes a loss of memory which returns in brief flashes.(The most unsettling and scariest parts of the film are of him walking along narrow country roads.)  In time, he learns he used to be self-destructive in his heavy drinking which he puts a stop to and is definitely surprised at the amount of women's shoes he owns.
+
+Mark does not last long in formal therapy.  And no longer able to draw like he used to, he constructs a lovingly detailed reconstruction of a Belgian village from World War II, 'Marwencol,' populated by action figures and Barbie dolls, in which he casts himself as the main hero, simultaneously a man of action and a bartender who no longer drinks like, as he says, Sam Malone.(Which I never saw the logic of, but whatever.)  And, yes, of course, there is a time machine.  This allows him to work out his frustrations and fantasies safely(especially involving cat fights) and his friends and co-workers feel it an honor to also be represented.  So, in the end, you have acceptance.</p>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://staticv2-4.rottentomatoes.com/static/images/redesign/user.none.tmb.jpg" class="critic_thumb" alt="Walter M.">
+                </div>
+        <div class="media-body">
+            Walter M.<p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+            </div>
+    </div>
+</div>
+<div class="quote_bubble fr cr">
+    <div id="quoteBubble73474" class="review_quote">
+        <div class="media">
+            <div class="media-body">
+                <div class="starHeader">
+                    <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>
+</div>
+                <p class="comment clamp clamp-6">
+                   <i>"When his world was stolen, Mark Hogancamp made a world of his own."</i>
+
+After a vicious attacks leaves him brain-damaged and broke, Mark Hogancamp seeks recovery in "Marwencol", a 1/6th scale World War II-era town he creates in his backyard.
+
+</p>
+<center><font size="+2" face="Century Schoolbook"><b><u>REVIEW</u></b></font></center>
+As with all the very best documentaries, it's what is implied rather than what is said outright. This brilliantly restrained piece chooses to give subtle information at all the right times, perfectly conveying the emotion attached to its subject matter. Previous alcoholic, bitter and angry, Mark Hogancamp was left in a coma after he received a savage beating outside a bar by five men. The resulting damage meant that he had also lost a lot of memory from the attack, losing details in his life (including his need for alcohol). Having lost his identity, Mark dealt with his traumas by constructing the titular miniature town of Marwencol, often reenacting scenes from flashes of memory, with toy dolls closely representing people in his life.
+
+Brilliantly paced, we learn of Mark's life, anxieties, and fears, and learn of a lonely, highly intelligent individual, who just does not want any further pain in his life. Thus, retracting from life and society, to live through his doll-town stories. If the first half is a little labouring in providing information to the viewer, the second half justifies this approach no end, as we compassionately learn of Mark's personality, what makes him comfortable, and the few real loves throughout his life. As well as the reason for the attack that so affected his life.
+
+The film is never judgmental, never dwells on its issues more than others. Scenes of Mark walking a toy jeep 160 miles on his trips to the local stores in order to wear the wheels in and appear authentic, prove to be highly endearing rather than seem odd or snigger-inducing. When Mark's constructions are later discovered as works of art, he struggles with his preparation for a New York exhibition of his constructions and photography. Yet clearly his honesty and integrity have a strong effect on the people he encounters there. What we are left with in the end is an honest portrait of a man overcoming his life's traumas. Therapy through art, in the most dignified and humble of ways.
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://staticv2-4.rottentomatoes.com/static/images/redesign/user.none.tmb.jpg" class="critic_thumb" alt="Lorenzo von Matterhorn">
+                </div>
+        <div class="media-body">
+            Lorenzo von Matterhorn<p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+            </div>
+    </div>
+</div>
+<div class="quote_bubble fl cl">
+    <div id="quoteBubble73475" class="review_quote">
+        <div class="media">
+            <div class="media-body">
+                <div class="starHeader">
+                    <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>
+</div>
+                <p class="comment clamp clamp-6">
+                   More than a simple documentary about an artform, Marwencol digs deep into the psyche and troubled past of the creator, Mark Hogencamp. Beaten by five men and left brain damaged, Mark had to relearn everything about his own life all over again. Because he has little money, Mark's various physical and psychological therapies are cut off after a short amount of time. In his desperation to learn about himself, he begins developing a town called Marwencol, inhabited by Barbies, GI Joes, and various other dolls. Each doll is the "alter-ego" of someone in Mark's life, including his mother, ex-wife, and co-workers. Over time the town mirrors events in his own life, or least the way he wants his life to be. In his town he's found true love, fights Nazis, and runs a bar/cat fighting club. Through the process of putting this together, Mark is forced to face his years of alcoholism, and fetish for women's shoes, which had led to his original attack. Moving, and full of empathetic scenes, Marwencol is as close to heartbreaking as humanly possible.</p>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://graph.facebook.com/v2.2/1301610789/picture" class="critic_thumb" alt="Spencer S.">
+                </div>
+        <div class="media-body">
+            Spencer S.<p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+            </div>
+    </div>
+</div>
+<div class="quote_bubble fr cr hidden-xs">
+    <div id="quoteBubble73476" class="review_quote">
+        <div class="media">
+            <div class="media-body">
+                <div class="starHeader">
+                    <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>½</div>
+                <p class="comment clamp clamp-6">
+                   the VERY strange tale of a man who built a town-- a miniature town in his backyard.  using dolls he plays out an elaborate fantasy of WW2 with himself as the hero.  mark hogancamp suffered brain damage and amnesia after a brutal attack that left him comatose for 9 days.  after relearning basic skills he returned home and began building elaborate sets, inventing scenarios and photographing them.  when a local photographer stumbles on him he becomes a minor art world celebrity.  the remarkable thing about his work is that 'there's no irony in it.'  indeed there isn't.  mark isn't capable of irony.  he isn't self aware.  he's living in this world day to day and i'm not at all sure if it's therapy as is claimed or just a well-developed escape from reality.  anyway it's not my place to judge and i wish him all the best.  this is streaming on netflix so check it out; it's fascinating</p>
+            </div>
+        </div>
+    </div>
+    <div class="review_source media">
+        <div class="pull-left">
+            <img src="https://staticv2-4.rottentomatoes.com/static/images/redesign/user.none.tmb.jpg" class="critic_thumb" alt="Stella Dallas">
+                </div>
+        <div class="media-body">
+            Stella Dallas<p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+            </div>
+    </div>
+</div>
+</div>
+            <div class="view-all">
+                <a href="/m/marwencol/reviews/?type=user">
+                     View All Audience Reviews
+                </a>
+</div>
+        </div>
+</section>
+<section id="quotesList" class="panel panel-rt panel-box ">
+    <h2 class="panel-heading">
+<em>Marwencol</em> Quotes</h2>
+    <div class="panel-body content_body">
+        <div class="media">
+            <div class="pull-right hidden-xs" style="width:310px;">
+                <aside id="medrec_bottom_ad" class="medrec_ad " style="width:300px"></aside>
+    <script>
+                var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function() {
+                    if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+                        mps.insertAd('#medrec_bottom_ad','boxadone');
+                    } else if (mps.getResponsiveSet() == '0' && 'movie' == 'home') {
+                        mps.insertAd('#medrec_bottom_ad','mboxadtwo');
+                    }
+                });
+            </script>
+        <br>
+            </div>
+            <div class="media-body">
+                <div style="background:#EEEEEE; padding:15px;" align="center">
+                            <p>There are no approved quotes yet for this movie.</p>
+                            </div>
+                    </div>
+        </div>
+    </div>
+</section>
+<section id="newsAndFeatures" class="panel panel-rt panel-box ">
+    <h2 class="panel-heading">News &amp; Features</h2>
+    <div class="panel-body content_body">
+        <div class="panel-body">
+            <div class="col-sm-15">
+                <div id="FeaturedSection">
+                        <div class="newsItem col-xs-12 odd">
+                                <a href="https://editorial.rottentomatoes.com/guide/erotic-movies-ranked-worst-to-best/" class="unstyled articleLink">
+                                    <div class="bannerPicContainer">
+                                        <div class="bannerPic" style="background-image:url('https://resizing.flixster.com/bsctg6wJ16TNaeBF6L8ObWKBJqM=/206x156/v1.czsxMDI3ODc2NDtqOzE3NzEzOzEyMDA7MjA2OzE1Ng')"></div>
+                                    </div>
+                                    <div class="bannerCaption">
+                                        <p class="noSpacing title">135 Erotic Movies</p>
+                                        <p class="byline noSpacing">Erotic movies ranked worst to best</p>
+                                    </div>
+                                </a>
+                            </div>
+                        <div class="newsItem col-xs-12 odd">
+                                <a href="https://editorial.rottentomatoes.com/gallery/24-worst-movie-remakes-by-tomatometer/" class="unstyled articleLink">
+                                    <div class="bannerPicContainer">
+                                        <div class="bannerPic" style="background-image:url('https://resizing.flixster.com/bpKv7TUrUQmP126IIO3bSnLLQe4=/206x156/v1.czsxMDI3ODc2MztqOzE3NzEzOzEyMDA7MjA2OzE1Ng')"></div>
+                                    </div>
+                                    <div class="bannerCaption">
+                                        <p class="noSpacing title">24 Worst Remakes</p>
+                                        <p class="byline noSpacing">The worst movies by Tomatometer</p>
+                                    </div>
+                                </a>
+                            </div>
+                        <div class="newsItem col-xs-12 odd">
+                                <a href="https://editorial.rottentomatoes.com/article/renewed-and-canceled-tv-shows-2017-2018/" class="unstyled articleLink">
+                                    <div class="bannerPicContainer">
+                                        <div class="bannerPic" style="background-image:url('https://resizing.flixster.com/vVKIhc0PFt8VKvU3bJFOg66bkWc=/206x156/v1.czsxMDI3ODc2NTtqOzE3NzEzOzEyMDA7MjA2OzE1Ng')"></div>
+                                    </div>
+                                    <div class="bannerCaption">
+                                        <p class="noSpacing title">Renewed &amp; Canceled TV</p>
+                                        <p class="byline noSpacing">What's on &amp; what's gone</p>
+                                    </div>
+                                </a>
+                            </div>
+                        <div class="newsItem col-xs-12 odd">
+                                <a href="https://editorial.rottentomatoes.com/guide/200-essential-movies-to-watch-now/" class="unstyled articleLink">
+                                    <div class="bannerPicContainer">
+                                        <div class="bannerPic" style="background-image:url('https://resizing.flixster.com/pa7ALs8M-az5U0yRA31aZDiSdhc=/206x156/v1.czsxMDI3ODc2NjtqOzE3NzEzOzEyMDA7MjA2OzE1Ng')"></div>
+                                    </div>
+                                    <div class="bannerCaption">
+                                        <p class="noSpacing title">200 Essential Movies</p>
+                                        <p class="byline noSpacing">Certified Fresh, as chosen by RT staff</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    <div class="clickForMore">
+                        <a class="articleLink unstyled" href="https://editorial.rottentomatoes.com/news/"><p>View All</p></a>
+                    </div>
+                </div>
+        <div class="col-sm-9 newsList hidden-xs">
+                                <h2 class="" id="top-headlines">TOP HEADLINES</h2>
+
+                                    <div class="col-sm-24">
+    <ul class="redDot">
+        <li>
+                <a target="_blank" href="https://www.rogerebert.com/balder-and-dash/steven-bochco-1943-2018" class="articleLink unstyled">
+                    Steven Bochco: 1943-2018</a>
+                <br>
+                <span class="subtle">– RogerEbert.com</span>
+                </li>
+        <li>
+                <a target="_blank" href="http://variety.com/2018/tv/news/roseanne-renewed-abc-1202740400/" class="articleLink unstyled">
+                    ABC Renews <i>Roseanne</i> for Season 11</a>
+                <br>
+                <span class="subtle">– Variety</span>
+                </li>
+        <li>
+                <a target="_blank" href="http://variety.com/2018/film/news/colin-trevorrow-jurassic-world-3-1202740351/" class="articleLink unstyled">
+                    Colin Trevorrow to Direct <i>Jurassic World 3</i></a>
+                <br>
+                <span class="subtle">– Variety</span>
+                </li>
+        <li>
+                <a target="_blank" href="http://variety.com/2018/film/news/jennifer-aniston-adam-sandler-netflix-murder-mystery-1202739436/" class="articleLink unstyled">
+                    Jennifer Aniston and Adam Sandler Reunite for <i>Murder Mystery</i></a>
+                <br>
+                <span class="subtle">– Variety</span>
+                </li>
+        <li>
+                <a target="_blank" href="http://variety.com/2018/film/news/scarlett-johansson-taika-waititis-jojo-rabbit-fox-searchlight-1202668807/" class="articleLink unstyled">
+                    Scarlett Johansson to Star in Taika Waititi’s <i>Jojo Rabbit</i></a>
+                <br>
+                <span class="subtle">– Variety</span>
+                </li>
+        <li>
+                <a target="_blank" href="http://variety.com/2018/film/news/pedro-pascal-wonder-woman-sequel-narcos-1202738657/" class="articleLink unstyled">
+                    <i>Wonder Woman 2</i> Adds Pedro Pascal</a>
+                <br>
+                <span class="subtle">– Variety</span>
+                </li>
+        <li>
+                <a target="_blank" href="http://variety.com/2018/film/news/fox-moves-bohemian-rhapsody-delays-x-men-spinoffs-1202737117/" class="articleLink unstyled">
+                    Fox Bumps <i>X-Men: Apocalypse</i>, <i>New Mutants</i> Back</a>
+                <br>
+                <span class="subtle">– Variety</span>
+                </li>
+        <li>
+                <a target="_blank" href="https://www.hollywoodreporter.com/heat-vision/captain-marvel-cast-clark-gregg-returning-as-agent-coulson-1097356" class="articleLink unstyled">
+                    <i>Captain Marvel</i> Reveals Complete Cast</a>
+                <br>
+                <span class="subtle">– Hollywood Reporter</span>
+                </li>
+        </ul>
+</div>
+<div class="top-headlines-clickForMore-narrow clickForMore">
+                                        <a class="articleLink unstyled" href="https://editorial.rottentomatoes.com/publications/"><p>View All</p></a>
+                                    </div>
+                                </div>
+
+                </div>
+
+
+    </div>
+</section>
+<aside id="medrec_mobile_mob_bottom_ad" class="medrec_ad visible-xs center mobile-medrec" style="width:300px"></aside>
+    <script>
+                var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function() {
+                    if (mps.getResponsiveSet() =='0') { //MOBILE
+                        mps.insertAd('#medrec_mobile_mob_bottom_ad','mboxadtwo');
+                    }
+                });
+            </script>
+        </div>
+        <script type="text/template" class="RecommendationItemTemplate">
+    <a href="/m/<@= vanity @>/" class="unstyled articleLink">
+        <div class="imgContainer">
+            <img src="<@= posterImg @>" />
+        </div>
+        <div class="movie_content_area">
+            <span class="icon tiny <@= scoreClass @>"></span>
+            <span class="tMeterScore"><@= score @>%</span>
+        </div>
+        <p class="title noSpacing"><@= title @></p>
+    </a>
+</script>
+<script type="text/template" class="NoShowtimesTemplate">
+    <div class="msg-not-near">The movie doesn't seem to be playing near you.</div>
+</script>
+<script type="text/template" class="ChangeShowtimesTemplate">
+    <@ if (!noShowtimes) { @><a class="goBack">Go back</a><@ } @>
+    <div class="msg-where">
+        Enter your location to see where <em><@= movieTitle @></em> is playing near you
+    </div>
+    <div class="input-group col-xs-24 col-sm-12">
+        <input class="typeahead form-control" type="text" value="" placeholder="Enter city & state or Zip Code"/>
+    </div>
+    <div class="results"></div>
+</script>
+<script type="text/template" class="NewsBox">
+    <div id="contentNews" class="inlineBlock"></div>
+</script>
+<script type="text/template" class="NewsBoxItem">
+    <a href="<@= link @>" class="unstyled articleLink">
+        <div class="newsPhoto" style="background-image:url('<@= displayPhotoUrl @>')"></div>
+        <div><@= title @></div>
+    </a>
+</script><script src="//player.theplatform.com/pdk/HNK2IC/tpPdkController.js?pdk=5.7.14"></script>
+<script>
+require(["https://staticv2-4.rottentomatoes.com/static/dist/jspjs/movie.jsp.min.js"], function(PageLoad) {
+    PageLoad("marwencol", "771198393", "20180402", "true", "Marwencol");
+});
+</script>
+
+</div>
+        <script>console.info("body content:" + window.performance.now());</script>
+        <div class="sleaderboard_wrapper hidden-xs">
+		<div id="leaderboard_bottom_ad" style="margin-left:auto;margin-right:auto;display:inline-block">
+		</div>
+		<script>
+			var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+			mps._queue.gptloaded.push(function() {
+				if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+					mps.insertAd('#leaderboard_bottom_ad','bottombanner');
+				}
+			});
+		</script>
+	</div>
+<style>#skin_ad { height:0px !important; }</style>
+<div id="skin_ad"> </div>
+
+<footer id="foot" class="hidden-xs">
+    <div class="row">
+        <div class="col-xs-5 subnav">
+            <ul class="unstyled">
+                <li><a id="footer-help" class="unstyled trendingLink" href="/help_desk/">Help</a></li>
+                <li><a id="footer-about" class="unstyled trendingLink" href="/about/">About Rotten Tomatoes</a></li>
+                <li><a id="footer-tomatometer" style="cursor: pointer;" class="unstyled trendingLink" data-toggle="modal" data-target="#whatIsTomatometer">What's the Tomatometer?</a></li>
+                <li><a id="footer-feedback" class="unstyled trendingLink" href="https://fandango.az1.qualtrics.com/SE/?SID=SV_cGSHgMIu5ivVwAB" target="_blank">Feedback</a></li>
+            </ul>
+        </div>
+        <div class="col-xs-4 subnav">
+            <ul>
+                <li><a id="footer-critics" class="unstyled trendingLink" href="/help_desk/critics/">Critic Submission</a></li>
+                <li><a id="footer-licensing" class="unstyled trendingLink" href="/help_desk/licensing/">Licensing</a></li>
+                <li><a id="footer-advertise" class="unstyled trendingLink" href="//www.fandango.com/Advertising.aspx">Advertise</a></li>
+                <li><a id="footer-jobs" class="unstyled trendingLink" href="//www.fandango.com/careers">Careers</a></li>
+            </ul>
+        </div>
+        <div class="col-xs-7 subnav center">
+            <h2>
+<span class="glyphicon glyphicon-envelope"></span>  JOIN THE NEWSLETTER</h2>
+            <div class="default-half-margin-vertical">
+                Get the freshest reviews, news, and more delivered right to your inbox!
+            </div>
+            <div class="default-margin">
+                <a class="btn btn-primary footer-btn" href="/newsletter">
+                    Join the Newsletter!
+                </a>
+            </div>
+        </div>
+        <div class="col-xs-8 subnav">
+            <h2>Follow Us</h2>
+            <div>
+                <a id="footer-follow-us-facebook" class="unstyled trendingLink fontelloIcon icon-facebook-squared footerIcon" href="http://www.facebook.com/rottentomatoes"></a>   
+                <a id="footer-follow-us-twitter" class="unstyled trendingLink fontelloIcon icon-twitter footerIcon" href="http://twitter.com/rottentomatoes"></a>   
+                <a id="footer-follow-us-instagram" class="unstyled trendingLink fontelloIcon icon-instagram footerIcon" href="https://www.instagram.com/rottentomatoes/"></a>   
+                <a id="footer-follow-us-snapchat" class="unstyled trendingLink fontelloIcon icon-snapchat footerIcon" href="https://www.snapchat.com/add/rottentomatoes"></a>   
+                <a id="footer-follow-us-youtube" class="unstyled trendingLink fontelloIcon icon-youtube-play footerIcon" href="http://www.youtube.com/user/rottentomatoes"></a>   
+            </div>
+        </div>
+    </div>
+    <div class="subtle" style="padding:10px">
+        <span class="easteregg">Copyright © Fandango. All rights reserved.</span> <span style="color:#313131">V2</span>
+        <a id="footer-privacy" href="//www.fandango.com/PrivacyPolicy">Privacy Policy</a> |
+        <a id="footer-tos" href="//www.fandango.com/terms-and-policies">Terms and Policies</a> |
+        <a id="footer-ad-choices" href="//www.aboutads.info/choices" class="adchoices">Ad Choices</a>
+    </div>
+</footer>
+
+<footer id="mobileFoot" class="visible-xs-block">
+    <div class="white">Copyright © Fandango. All rights reserved. <span style="color:#313131">V2</span>
+</div>
+    <div class="default-margin">
+        <a href="/newsletter" class="btn btn-primary">Join Newsletter</a>
+    </div>
+    <div>
+        <a class="footerLinks" href="//www.fandango.com/terms-and-policies">Terms and Policies</a>    
+        <a class="footerLinks" href="//www.fandango.com/PrivacyPolicy">Privacy Policy</a>    
+        <a class="footerLinks" href="https://fandango.az1.qualtrics.com/SE/?SID=SV_cGSHgMIu5ivVwAB" target="_blank">Feedback</a>
+    </div>
+</footer>
+</div>
+    <script type="text/template" class="LoginModalTemplate">
+    <div class="modal-dialog modal-sm ctHidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+                </button>
+                <h2 class="modal-title">Log In</h2>
+            </div>
+            <div class="modal-body loginForm">
+                <div class="error"></div>
+                <p>
+                    <a id="fbLoginButton" class="btn btn-primary-fb btn-lg fullWidth">
+                        <i class="fontelloIcon icon-facebook-squared"></i>
+                        Log in with Facebook
+                    </a>
+                </p>
+                <div style="border-bottom:1px solid gray;margin-bottom:10px;padding-bottom:10px;">
+                    <div style="background-color:white;left:50%;margin-left:-10px;padding:0 10px;position:absolute">OR</div>
+                </div>
+                <div class="loginInfo">
+                    <div class="form-group username">
+                        <label class="control-label" for="login_username">Email address</label>
+                        <input id="login_username" class="form-control" name="login_username" placeholder="Email Address" type="email">
+                        <span class="help-block"></span>
+                    </div>
+                    <div class="form-group password">
+                        <label class="control-label" for="login_password">Password</label>
+                        <input id="login_password" type="password" class="form-control" name="login_password" placeholder="Password">
+                        <span class="help-block"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary btn-login">Log In</button>
+                        </div>
+                    </div>
+                    <input type="hidden" name="redirectUrl" value="" />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <p>
+                    <a class="passwordModal" data-dismiss="modal" data-toggle="modal" data-target="#forgot-password">Forgot your password?</a><br />
+                    Don't have an account? <a class="signupModal" data-dismiss="modal" data-toggle="modal" data-target="#signup">Sign up here</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/template" class="SignupModalTemplate">
+    <div class="modal-dialog ctHidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+                </button>
+                <h2 class="modal-title">Sign up for Rotten Tomatoes</h2>
+            </div>
+            <div class="modal-body">
+                <a href="javascript:FB.login();" class="btn btn-primary-fb btn-lg fullWidth">
+                    <i class="fontelloIcon icon-facebook-squared"></i>
+                    Sign up with Facebook
+                </a>
+                <p class="text-center">
+                    OR
+                </p>
+                <div class="form-group col-xs-12 first_name">
+                    <label class="control-label fullWidth" for="register_first_name">
+                        First Name
+                    </label>
+                    <div class="fullWidth">
+                        <input id="register_first_name" class="form-control" name="register_first_name" />
+                    </div>
+                    <span class="help-block"></span>
+                </div>
+                <div class="form-group col-xs-12 last_name">
+                    <label class="control-label fullWidth" for="register_first_name">
+                        Last Name
+                    </label>
+                    <div class="fullWidth">
+                        <input id="register_last_name" class="form-control" name="register_last_name" />
+                    </div>
+                    <span class="help-block"></span>
+                </div>
+                <div class="form-group col-xs-24 email">
+                    <label class="control-label fullWidth" for="register_email">
+                        Email
+                    </label>
+                    <div class="fullWidth">
+                        <input id="register_email" class="form-control" name="register_email" />
+                    </div>
+                    <span class="help-block"></span>
+                </div>
+                <div class="form-group col-xs-24 password">
+                    <label class="control-label fullWidth" for="register_password">
+                        Password
+                    </label>
+                    <div class="fullWidth">
+                        <input id="register_password" class="form-control" name="register_password" type="password" />
+                    </div>
+                    <span class="help-block"></span>
+                </div>
+                <div class="form-group col-xs-24 recaptcha">
+                    <div id="recaptchaSignupBlock" class="recaptchaBlock"></div>
+                </div>
+                <div class="form-group">
+                    <div class="text-center">
+                        <p><small>
+                            By clicking "Sign up", I agree to the
+                            <a href="http://www.fandango.com/policies/terms-and-policies" target="_blank">Terms of Service</a>
+                            and <a href="http://www.fandango.com/policies/privacy-policy" target="_blank">Privacy Policy</a>.
+                        </small></p>
+                        <button type="submit" class="btn btn-primary btn-signup disabled">Sign Up</button>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <p class="text-center">
+                    <small>Already have an account? <a class="loginModal" data-dismiss="modal" data-toggle="modal" data-target="#login">Log in here</a></small>
+                </p>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/template" class="PasswordModalTemplate">
+    <div class="modal-dialog ctHidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+                </button>
+                <@ if (initialState) { @>
+                <h2 class="modal-title">Forgot your password</h2>
+                <@ } else { @>
+                <h2 class="modal-title">Password sent</h2>
+                <@ } @>
+            </div>
+            <div class="modal-body">
+                <@ if (initialState) { @>
+                    <@ if (errorMessage) { @>
+                        <div class="alert alert-danger alert-dismissible" role="alert">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <@= errorMessage @>
+                        </div>
+                    <@ } @>
+                    <p>
+                        Please enter your email address and we will email you a new password.
+                    </p>
+                    <div class="form-group col-xs-24">
+                        <label class="control-label fullWidth" for="forgot_email_address">
+                            Email Address
+                        </label>
+                        <div class="fullWidth">
+                            <input id="forgot_email_address" class="form-control" name="forgot_email_address" />
+                        </div>
+                    </div>
+                    <button class="btn btn-primary btn-submit">Submit</button>
+                <@ } else { @>
+                    <div>
+                        Check your email for a link to reset your password. <br/> <br/>
+                        NOTE: If you do not get the new password email in your inbox,
+                        check your Bulk Mail or Spam folder.
+                    </div>
+                    <a class="loginModal btn btn-primary" data-dismiss="modal" data-toggle="modal" data-target="#login">
+                        Log in
+                    </a>
+                <@ } @>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/template" class="PageHeaderLoginTemplate">
+    <@ if (loggedIn) { @>
+        <div class="userDropdown dropdown ctHidden">
+            <a rel="nofollow" href="/user/id/<@= flixsterId @>">
+                <img class="userThumb" src="<@= thumbnailUrl @>" />
+                <span class="userName"><@= firstName @></span>
+                <span class="fontelloIcon icon-down-dir"></span>
+            </a>
+            <ul class="dropdown-menu roundMenu">
+                <li class="media userStats">
+                    <a rel="nofollow" class="pull-left" href="/user/id/<@= flixsterId @>/">
+                        <img src="<@= thumbnailUrl @>" width="40" alt="<@= firstName @>">
+                    </a>
+                    <div class="media-body">
+                        <div class="name">
+                            <a rel="nofollow" href="/user/id/<@= flixsterId @>/" class="unstyled articleLink name"><@= firstName @>&nbsp;<@= lastName @></a>
+                        </div>
+                        <div class="wts">
+                            <a rel="nofollow" href="/user/id/<@= flixsterId @>/wts" class="unstyled articleLink stat">
+                                <span class="glyphicon glyphicon-plus" style="color:#0C89C8"></span>
+                                <span class="count"><@= wtsCount @></span>
+                                &nbsp;Wants to See
+                            </a>
+                        </div>
+                        <div class="ratings">
+                            <a rel="nofollow" href="/user/id/<@= flixsterId @>/ratings" class="unstyled articleLink stat">
+                                <span class="glyphicon glyphicon-star" style="color:#F18714"></span>
+                                <span class="count"><@= ratingCount @></span>
+                                &nbsp;Ratings
+                            </a>
+                        </div>
+                        <div class="friends">
+                            <a rel="nofollow" href="/user/id/<@= flixsterId @>/friends" class="unstyled articleLink stat">
+                                <span class="icon friends"></span>
+                                <span class="count"><@= friendCount @></span>
+                                &nbsp;friends
+                            </a>
+                        </div>
+                    </div>
+                </li>
+                <li class="header-top-bar-item">
+                    <a rel="nofollow" id="header-top-bar-profile" class="articleLink" href="/user/id/<@= flixsterId @>/" style="margin-bottom:-4px">Profile</a>
+                </li>
+                <li class="header-top-bar-item">
+                    <a rel="nofollow" id="header-top-bar-account" class="articleLink" href="/user/account/" style="margin-bottom:-4px">Account</a>
+                </li>
+                <li class="header-top-bar-item">
+                    <a id="header-top-bar-logout" class="logout articleLink">Log Out</a>
+                </li>
+            </ul>
+        </div>
+    <@ } else { @>
+        <a id="header-top-bar-signup" data-toggle="modal" data-target="#signup" class="signupLink login ctHidden">SIGN UP</a>
+        <span id="header-top-dash">&#124;</span><a id="header-top-bar-login" data-toggle="modal" data-target="#login" class="loginLink login ctHidden">LOG IN</a>
+    <@ } @>
+</script>
+<script type="text/template" class="PageHeaderLoginMobileTemplate">
+    <@ if (loggedIn) { @>
+        <div class="userProfile ctHidden">
+            <a rel="nofollow" class="userProfileLink" href="/user/id/<@= flixsterId @>">
+                <div class="media">
+                    <div class="pull-left">
+                        <img class="media-object" src="<@= thumbnailUrl @>" alt="<@= firstName @>" />
+                    </div>
+                    <div class="pull-right">
+                        <span class="glyphicon glyphicon-cog"/>
+                    </div>
+                    <div class="media-body">
+                        <span class="name"><@= firstName @>&nbsp;<@= lastName @></span>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="logoutRow ctHidden">
+            <a class="logout">
+                Logout
+            </a>
+        </div>
+    <@ } else { @>
+        <a data-toggle="modal" data-target="#signup" class="signupLink login ctHidden">SIGN UP</a>
+        <a data-toggle="modal" data-target="#login" class="loginLink login ctHidden">LOG IN</a>
+    <@ } @>
+</script>
+<script type="text/template" class="SocialToolsTemplate">
+    <a class="social-tools-facebook-like" title="Facebook Like"></a>
+    <a class="social-tools-facebook-share" title="Facebook Share"></a>
+    <a class="social-tools-twitter" title="Twitter"></a>
+    <a class="social-tools-pinterest" title="Pinterest"></a>
+    <a class="social-tools-googleplus" title="Google+"></a>
+    <a class="social-tools-stumbleupon" title="StumbleUpon"></a>
+    <@ if (forumLink) { @>
+        <a href="<@= forumLink @>" class="social-tools-comments" title="Forums"></a>
+    <@ } @>
+</script>
+<script>
+require(["https://staticv2-4.rottentomatoes.com/static/dist/jspjs/bodyScript.tag.min.js"], function(PageLoad) {
+    PageLoad(771198393);
+});
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onRecaptchaCallback&amp;render=explicit" async defer></script>
+<script>
+    $(".easteregg").click(function () {
+        alert(window.location.href + " \n/movies/movie.jsp \nip-10-25-21-209 (TH) \nGA:empty");
+    });
+</script><script>
+        require(["globals"], function(RT) {
+            var invokeAds = function() {
+                mps.writeFooter && mps.writeFooter();
+            };
+            if ('undefined' !== typeof Promise) {
+                Promise.all(RT.adPromises).then(invokeAds);
+            } else {
+                require(["rsvp"], function(RSVP) {
+                    RSVP.all(RT.adPromises).then(invokeAds);
+                });
+            }
+        });
+    </script>
+
+    <script type="text/javascript">
+        var _sf_async_config = _sf_async_config || {};
+        /** CONFIGURATION START **/
+        _sf_async_config.sections = "movie";
+        _sf_async_config.authors = 'rt-staff'; 
+
+        /** CONFIGURATION END **/
+        (function() {
+            function loadChartbeat() {
+                window._sf_endpt = (new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+
+                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                    loadChartbeat : function() {
+                oldonload();
+                loadChartbeat();
+            };
+        })();
+    </script>
+
+    <script type="text/javascript">_satellite.pageBottom();</script>
+    
+    <script>console.info("body-bottom" + window.performance.now());</script>
+</body>
+</html>
