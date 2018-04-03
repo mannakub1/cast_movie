@@ -22,7 +22,7 @@ module Crawler::Private::Get
 
   def content_movie(doc)
     str_sum = ""
-    doc.css('a').each{ |x| str_sum += x.children.to_s[0..x.children.to_s.index("(")-2].strip+"\n"+ x['href'] +"\n"}
+    doc.css('a').each{ |x| str_sum += x.children.to_s.gsub("(", "").gsub(")", "").strip+"\n"+ x['href'] +"\n"}
     str_sum
   end
 
