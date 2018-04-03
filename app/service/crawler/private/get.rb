@@ -22,7 +22,12 @@ module Crawler::Private::Get
 
   def content_movie(doc)
     str_sum = ""
-    doc.css('a').each{ |x| str_sum += x.children.to_s.gsub("(", "").gsub(")", "").strip+"\n"+ x['href'] +"\n"}
+    scores, num_reviews = [], []
+    doc.css('span').each{ |x| if x.css("span").children.to_s.size >1 then scores << x.css("span").children.to_s[1..4] end }
+    doc.css("td").each { |x| if x['class'] == "right hidden-xs" then num_reviews << x.children.to_s end}
+    doc.css('a').each_with_index{ |x, index| str_sum += x.children.to_s.gsub("(", "").gsub(")", "").strip+"\n"+ x['href']+" " + scores[index]+" " + num_reviews[index] +"\n" }
+    # puts scores.size
+    # puts str_sum.split("\n").size
     str_sum
   end
 

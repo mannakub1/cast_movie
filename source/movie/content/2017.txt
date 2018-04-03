@@ -1,200 +1,200 @@
 Lady Bird 2017
-/m/lady_bird
+/m/lady_bird 99% 308
 Get Out 2017
-/m/get_out
+/m/get_out 99% 304
 Coco 2017
-/m/coco_2017
+/m/coco_2017 97% 273
 The Big Sick 2017
-/m/the_big_sick
+/m/the_big_sick 98% 252
 Dunkirk 2017
-/m/dunkirk_2017
+/m/dunkirk_2017 92% 376
 Wonder Woman 2017
-/m/wonder_woman_2017
+/m/wonder_woman_2017 92% 373
 Logan 2017
-/m/logan_2017
+/m/logan_2017 93% 336
 Star Wars: The Last Jedi 2017
-/m/star_wars_the_last_jedi
+/m/star_wars_the_last_jedi 91% 371
 The Shape of Water 2017
-/m/the_shape_of_water_2017
+/m/the_shape_of_water_2017 92% 345
 Baby Driver 2017
-/m/baby_driver
+/m/baby_driver 93% 313
 Thor: Ragnarok 2017
-/m/thor_ragnarok_2017
+/m/thor_ragnarok_2017 92% 332
 The Florida Project 2017
-/m/the_florida_project
+/m/the_florida_project 96% 247
 War for the Planet of the Apes 2017
-/m/war_for_the_planet_of_the_apes
+/m/war_for_the_planet_of_the_apes 93% 298
 Three Billboards Outside Ebbing, Missouri 2017
-/m/three_billboards_outside_ebbing_missouri
+/m/three_billboards_outside_ebbing_missouri 92% 317
 Spider-Man: Homecoming 2017
-/m/spider_man_homecoming
+/m/spider_man_homecoming 92% 317
 I Am Not Your Negro 2017
-/m/i_am_not_your_negro
+/m/i_am_not_your_negro 98% 180
 Hidden Figures 2017
-/m/hidden_figures
+/m/hidden_figures 93% 262
 Logan Lucky 2017
-/m/logan_lucky
+/m/logan_lucky 93% 240
 The Salesman Forushande 2017
-/m/the_salesman_2017
+/m/the_salesman_2017 96% 177
 The Disaster Artist 2017
-/m/the_disaster_artist
+/m/the_disaster_artist 91% 272
 My Life as a Zucchini Ma vie de courgette 2017
-/m/my_life_as_a_zucchini
+/m/my_life_as_a_zucchini 98% 123
 Blade Runner 2049 2017
-/m/blade_runner_2049
+/m/blade_runner_2049 87% 350
 God's Own Country 2017
-/m/gods_own_country_2017
+/m/gods_own_country_2017 99% 98
 Mudbound 2017
-/m/mudbound
+/m/mudbound 96% 159
 BPM Beats Per Minute 120 battements par minute 2017
-/m/bpm
+/m/bpm 99% 93
 Faces Places Visages, villages 2017
-/m/faces_places
+/m/faces_places 99% 93
 City of Ghosts 2017
-/m/city_of_ghosts_2017
+/m/city_of_ghosts_2017 99% 92
 The Lego Batman Movie 2017
-/m/the_lego_batman_movie
+/m/the_lego_batman_movie 90% 277
 Kedi 2017
-/m/kedi_2017
+/m/kedi_2017 98% 106
 After the Storm Umi yori mo mada fukaku 2017
-/m/after_the_storm_2017
+/m/after_the_storm_2017 97% 122
 Lucky 2017
-/m/lucky_2017
+/m/lucky_2017 98% 101
 Quest 2017
-/m/quest_2017
+/m/quest_2017 100% 53
 Bright Lights: Starring Carrie Fisher and Debbie Reynolds 2017
-/m/bright_lights_starring_carrie_fisher_and_debbie_reynolds
+/m/bright_lights_starring_carrie_fisher_and_debbie_reynolds 100% 53
 The Work 2017
-/m/the_work
+/m/the_work 100% 52
 Jane 2017
-/m/jane
+/m/jane 98% 93
 The Happiest Day in the Life of Olli Mäki Hymyilevä mies 2017
-/m/the_happiest_day_in_the_life_of_olli_maki_2017
+/m/the_happiest_day_in_the_life_of_olli_maki_2017 100% 49
 Columbus 2017
-/m/columbus_2017
+/m/columbus_2017 98% 87
 Dawson City: Frozen Time 2017
-/m/dawson_city_frozen_time
+/m/dawson_city_frozen_time 100% 44
 A Ghost Story 2017
-/m/a_ghost_story
+/m/a_ghost_story 91% 229
 Dolores 2017
-/m/dolores_2017
+/m/dolores_2017 100% 41
 Your Name. Kimi No Na Wa. 2017
-/m/your_name_2017
+/m/your_name_2017 97% 101
 Good Time 2017
-/m/good_time
+/m/good_time 92% 204
 Menashe 2017
-/m/menashe
+/m/menashe 97% 100
 The Red Turtle La tortue rouge 2017
-/m/the_red_turtle
+/m/the_red_turtle 94% 149
 Truman 2017
-/m/truman_2017
+/m/truman_2017 98% 65
 I, Daniel Blake 2017
-/m/i_daniel_blake
+/m/i_daniel_blake 93% 168
 In This Corner of the World Kono sekai no katasumi ni 2017
-/m/in_this_corner_of_the_world
+/m/in_this_corner_of_the_world 98% 64
 Graduation Bacalaureat 2017
-/m/graduation_2017
+/m/graduation_2017 95% 126
 Whose Streets? 2017
-/m/whose_streets
+/m/whose_streets 97% 78
 Dina 2017
-/m/dina_2017
+/m/dina_2017 98% 50
 Trophy 2017
-/m/trophy_2017
+/m/trophy_2017 98% 45
 The Last Laugh 2017
-/m/the_last_laugh_2017
+/m/the_last_laugh_2017 98% 42
 It 2017
-/m/it_2017
+/m/it_2017 85% 311
 John Wick: Chapter 2 2017
-/m/john_wick_chapter_2
+/m/john_wick_chapter_2 89% 224
 Bombshell: The Hedy Lamarr Story 2017
-/m/bombshell_the_hedy_lamarr_story
+/m/bombshell_the_hedy_lamarr_story 96% 77
 The Meyerowitz Stories New and Selected 2017
-/m/the_meyerowitz_stories
+/m/the_meyerowitz_stories 92% 157
 Guardians of the Galaxy Vol. 2 2017
-/m/guardians_of_the_galaxy_vol_2
+/m/guardians_of_the_galaxy_vol_2 83% 341
 Step 2017
-/m/step_2017
+/m/step_2017 95% 88
 Thelma 2017
-/m/thelma_2017
+/m/thelma_2017 93% 122
 Stronger 2017
-/m/stronger_2017
+/m/stronger_2017 91% 163
 The B-Side: Elsa Dorfman's Portrait Photography 2017
-/m/the_b_side_elsa_dorfmans_portrait_photography
+/m/the_b_side_elsa_dorfmans_portrait_photography 96% 52
 Raw 2017
-/m/raw_2017
+/m/raw_2017 91% 155
 Ex Libris: New York Public Library 2017
-/m/ex_libris_new_york_public_library
+/m/ex_libris_new_york_public_library 96% 50
 A Quiet Passion 2017
-/m/a_quiet_passion
+/m/a_quiet_passion 91% 152
 The Women's Balcony Ismach Hatani 2017
-/m/the_womens_balcony
+/m/the_womens_balcony 96% 46
 I Called Him Morgan 2017
-/m/i_called_him_morgan
+/m/i_called_him_morgan 96% 46
 It Comes At Night 2017
-/m/it_comes_at_night
+/m/it_comes_at_night 88% 212
 A Monster Calls 2017
-/m/a_monster_calls
+/m/a_monster_calls 86% 242
 20th Century Women 2017
-/m/20th_century_women
+/m/20th_century_women 88% 199
 American Made 2017
-/m/american_made_2017
+/m/american_made_2017 86% 235
 Wind River 2017
-/m/wind_river_2017
+/m/wind_river_2017 87% 214
 Prevenge 2017
-/m/prevenge
+/m/prevenge 94% 67
 The Lost City of Z 2017
-/m/the_lost_city_of_z
+/m/the_lost_city_of_z 87% 212
 The Breadwinner 2017
-/m/the_breadwinner
+/m/the_breadwinner 94% 66
 Battle of the Sexes 2017
-/m/battle_of_the_sexes
+/m/battle_of_the_sexes 85% 253
 Lady Macbeth 2017
-/m/lady_macbeth
+/m/lady_macbeth 89% 169
 Darkest Hour 2017
-/m/darkest_hour_2017
+/m/darkest_hour_2017 85% 252
 Their Finest 2017
-/m/their_finest_2017
+/m/their_finest_2017 90% 140
 Human Flow 2017
-/m/human_flow
+/m/human_flow 92% 97
 Citizen Jane: Battle for the City 2017
-/m/citizen_jane_battle_for_the_city
+/m/citizen_jane_battle_for_the_city 94% 53
 Girls Trip 2017
-/m/girls_trip
+/m/girls_trip 90% 136
 Endless Poetry Poesía Sin Fin 2017
-/m/endless_poetry
+/m/endless_poetry 94% 51
 Gook 2017
-/m/gook
+/m/gook 94% 48
 Detroit 2017
-/m/detroit_2017
+/m/detroit_2017 84% 253
 Frantz 2017
-/m/frantz
+/m/frantz 90% 126
 Abacus: Small Enough to Jail 2017
-/m/abacus_small_enough_to_jail
+/m/abacus_small_enough_to_jail 93% 60
 Land of Mine Under Sandet 2017
-/m/land_of_mine
+/m/land_of_mine 91% 99
 Brawl in Cell Block 99 2017
-/m/brawl_in_cell_block_99
+/m/brawl_in_cell_block_99 92% 78
 Silence 2017
-/m/silence_2017
+/m/silence_2017 84% 240
 Maudie 2017
-/m/maudie
+/m/maudie 89% 134
 Okja 2017
-/m/okja
+/m/okja 86% 194
 All This Panic 2017
-/m/all_this_panic
+/m/all_this_panic 93% 45
 The Other Side of Hope Toivon tuolla puolen 2017
-/m/the_other_side_of_hope
+/m/the_other_side_of_hope 91% 86
 School Life 2017
-/m/school_life
+/m/school_life 93% 43
 Icarus 2017
-/m/icarus_2017
+/m/icarus_2017 93% 42
 Clash Eshtebak 2017
-/m/clash_2017
+/m/clash_2017 93% 40
 Norman Norman: The Moderate Rise and Tragic Fall of a New York Fixer 2017
-/m/norman_2017
+/m/norman_2017 89% 115
 Obit 2017
-/m/obit
+/m/obit 92% 50
 Professor Marston &amp; The Wonder Women 2017
-/m/professor_marston_and_the_wonder_women
+/m/professor_marston_and_the_wonder_women 87% 153
 Hounds of Love 2017
-/m/hounds_of_love
+/m/hounds_of_love 90% 86

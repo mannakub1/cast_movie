@@ -1,200 +1,200 @@
 Argo 2012
-/m/argo_2012
+/m/argo_2012 96% 333
 Skyfall 2012
-/m/skyfall
+/m/skyfall 92% 352
 Marvel's The Avengers 2012
-/m/marvels_the_avengers
+/m/marvels_the_avengers 92% 329
 Looper 2012
-/m/looper
+/m/looper 93% 252
 Jiro Dreams of Sushi 2012
-/m/jiro_dreams_of_sushi
+/m/jiro_dreams_of_sushi 99% 91
 The Cabin in the Woods 2012
-/m/the_cabin_in_the_woods
+/m/the_cabin_in_the_woods 92% 264
 Moonrise Kingdom 2012
-/m/moonrise_kingdom
+/m/moonrise_kingdom 93% 238
 Wake in Fright 2012
-/m/wake_in_fright
+/m/wake_in_fright 100% 50
 How to Survive a Plague 2012
-/m/how_to_survive_a_plague
+/m/how_to_survive_a_plague 99% 73
 The Invisible War 2012
-/m/the_invisible_war
+/m/the_invisible_war 99% 68
 This Is Not a Film 2012
-/m/this_is_not_a_film_2011
+/m/this_is_not_a_film_2011 98% 93
 Monsieur Lazhar 2012
-/m/monsieur_lazhar_2011
+/m/monsieur_lazhar_2011 97% 114
 Amour 2012
-/m/amour_2013
+/m/amour_2013 93% 207
 Silver Linings Playbook 2012
-/m/silver_linings_playbook
+/m/silver_linings_playbook 92% 232
 The Kid with a Bike 2012
-/m/the_kid_with_a_bike
+/m/the_kid_with_a_bike 96% 123
 The Dark Knight Rises 2012
-/m/the_dark_knight_rises
+/m/the_dark_knight_rises 87% 346
 The Sessions 2012
-/m/the_sessions
+/m/the_sessions 93% 192
 West of Memphis 2012
-/m/west_of_memphis
+/m/west_of_memphis 96% 112
 Lincoln 2012
-/m/lincoln_2011
+/m/lincoln_2011 90% 263
 The Loved Ones 2012
-/m/the_loved_ones_2012
+/m/the_loved_ones_2012 98% 55
 Ai Weiwei: Never Sorry 2012
-/m/ai_weiwei_never_sorry_2012
+/m/ai_weiwei_never_sorry_2012 97% 77
 Beware Of Mr. Baker 2012
-/m/beware_of_mr_baker
+/m/beware_of_mr_baker 98% 50
 Undefeated 2012
-/m/undefeated_2012
+/m/undefeated_2012 96% 99
 Mea Maxima Culpa: Silence In The House Of God 2012
-/m/mea_maxima_culpa_silence_in_the_house_of_god
+/m/mea_maxima_culpa_silence_in_the_house_of_god 98% 48
 The Island President 2012
-/m/the_island_president
+/m/the_island_president 98% 46
 The Secret World of Arrietty 2012
-/m/the_secret_world_of_arrietty
+/m/the_secret_world_of_arrietty 94% 143
 Oslo, August 31st 2012
-/m/oslo_august_31st
+/m/oslo_august_31st 97% 62
 The Imposter 2012
-/m/the_imposter_2012
+/m/the_imposter_2012 95% 111
 Marley 2012
-/m/marley
+/m/marley 95% 103
 Searching for Sugar Man 2012
-/m/searching_for_sugar_man
+/m/searching_for_sugar_man 94% 122
 Chasing Ice 2012
-/m/chasing_ice_2012
+/m/chasing_ice_2012 96% 69
 Sister 2012
-/m/lenfant_den_haut
+/m/lenfant_den_haut 96% 67
 The Queen of Versailles 2012
-/m/the_queen_of_versailles
+/m/the_queen_of_versailles 94% 107
 Brooklyn Castle 2012
-/m/brooklyn_castle_2012
+/m/brooklyn_castle_2012 96% 52
 Django Unchained 2012
-/m/django_unchained_2012
+/m/django_unchained_2012 87% 262
 Headhunters 2012
-/m/headhunters
+/m/headhunters 93% 95
 5 Broken Cameras 2012
-/m/5_broken_cameras_2012
+/m/5_broken_cameras_2012 95% 44
 Marina Abramovic: The Artist Is Present 2012
-/m/marina_abramovic_the_artist_is_present_2012
+/m/marina_abramovic_the_artist_is_present_2012 95% 43
 Diana Vreeland: The Eye Has To Travel 2012
-/m/diana_vreeland_the_eye_has_to_travel_2012
+/m/diana_vreeland_the_eye_has_to_travel_2012 94% 68
 Holy Motors 2012
-/m/holy_motors
+/m/holy_motors 91% 141
 The House I Live In 2012
-/m/the_house_i_live_in
+/m/the_house_i_live_in 94% 62
 Life of Pi 2012
-/m/life-of-pi
+/m/life-of-pi 87% 234
 Barbara 2012
-/m/barbara_2012
+/m/barbara_2012 93% 76
 The Central Park Five 2012
-/m/the_central_park_five_2012
+/m/the_central_park_five_2012 93% 71
 First Position 2012
-/m/first_position_2011
+/m/first_position_2011 93% 71
 I Wish 2012
-/m/i_wish_2012
+/m/i_wish_2012 93% 70
 Safety Not Guaranteed 2012
-/m/safety_not_guaranteed
+/m/safety_not_guaranteed 90% 140
 Elena 2012
-/m/elena_2012
+/m/elena_2012 93% 61
 The Master 2012
-/m/the_master_2011
+/m/the_master_2011 86% 235
 The Hunger Games 2012
-/m/the_hunger_games
+/m/the_hunger_games 84% 285
 Frankenweenie 2012
-/m/frankenweenie_2012
+/m/frankenweenie_2012 87% 205
 Bernie 2012
-/m/bernie_2011
+/m/bernie_2011 89% 154
 Farewell, My Queen 2012
-/m/farewell_my_queen
+/m/farewell_my_queen 92% 78
 Once Upon a Time in Anatolia 2012
-/m/once_upon_a_time_in_anatolia
+/m/once_upon_a_time_in_anatolia 92% 72
 Turn Me On, Dammit! 2012
-/m/turn_me_on_dammit
+/m/turn_me_on_dammit 93% 43
 Side by Side 2012
-/m/side_by_side_2012
+/m/side_by_side_2012 92% 66
 Compliance 2012
-/m/compliance_2012
+/m/compliance_2012 89% 136
 Wreck-it Ralph 2012
-/m/wreck_it_ralph
+/m/wreck_it_ralph 87% 172
 ParaNorman 2012
-/m/paranorman
+/m/paranorman 87% 171
 Beasts of the Southern Wild 2012
-/m/beasts_of_the_southern_wild
+/m/beasts_of_the_southern_wild 86% 192
 Footnote 2012
-/m/footnote
+/m/footnote 90% 88
 21 Jump Street 2012
-/m/21-jump-street-2011
+/m/21-jump-street-2011 85% 213
 Arbitrage 2012
-/m/arbitrage
+/m/arbitrage 87% 159
 A Royal Affair 2012
-/m/en_kongelig_affaere
+/m/en_kongelig_affaere 89% 103
 Keep the Lights On 2012
-/m/keep_the_lights_on
+/m/keep_the_lights_on 90% 61
 In Darkness 2012
-/m/in_darkness_2011
+/m/in_darkness_2011 88% 108
 Robot &amp; Frank 2012
-/m/robot_and_frank
+/m/robot_and_frank 87% 128
 The Perks of Being a Wallflower 2012
-/m/the_perks_of_being_a_wallflower
+/m/the_perks_of_being_a_wallflower 86% 153
 End of Watch 2012
-/m/end_of_watch
+/m/end_of_watch 85% 173
 The Pirates! Band of Misfits 2012
-/m/the_pirates_band_of_misfits
+/m/the_pirates_band_of_misfits 86% 147
 Chronicle 2012
-/m/chronicle
+/m/chronicle 85% 171
 Electric Boogaloo: The Wild, Untold Story of Cannon Films 2012
-/m/electric_boogaloo_the_wild_untold_story_of_cannon_films
+/m/electric_boogaloo_the_wild_untold_story_of_cannon_films 90% 42
 Polisse 2012
-/m/polisse_2011
+/m/polisse_2011 88% 80
 The Turin Horse 2012
-/m/the_turin_horse
+/m/the_turin_horse 89% 53
 The Raid: Redemption 2012
-/m/the_raid_redemption
+/m/the_raid_redemption 85% 151
 Neil Young Journeys 2012
-/m/neil_young_journeys
+/m/neil_young_journeys 88% 59
 Bully 2012
-/m/bully_2012
+/m/bully_2012 85% 132
 Seven Psychopaths 2012
-/m/seven_psychopaths
+/m/seven_psychopaths 82% 204
 Middle of Nowhere 2012
-/m/middle_of_nowhere
+/m/middle_of_nowhere 88% 48
 Boy 2012
-/m/boy_2012
+/m/boy_2012 87% 70
 Starlet 2012
-/m/starlet_2012
+/m/starlet_2012 88% 43
 Chico &amp; Rita 2012
-/m/chico_and_rita
+/m/chico_and_rita 87% 68
 The Big Picture 2012
-/m/the_big_picture_2012
+/m/the_big_picture_2012 88% 41
 Tabu 2012
-/m/tabu_2012
+/m/tabu_2012 87% 54
 Smashed 2012
-/m/smashed
+/m/smashed 85% 104
 Rundskop Bullhead 2012
-/m/rundskop_2012
+/m/rundskop_2012 86% 70
 Miss Bala 2012
-/m/miss_bala_2011
+/m/miss_bala_2011 86% 65
 The Impossible 2012
-/m/the_impossible_2012
+/m/the_impossible_2012 81% 188
 Your Sister's Sister 2012
-/m/your_sisters_sister
+/m/your_sisters_sister 83% 137
 Sleepwalk With Me 2012
-/m/sleepwalk_with_me_2012
+/m/sleepwalk_with_me_2012 84% 111
 De rouille et d'os Rust and Bone 2012
-/m/de_rouille_et_dos_2012
+/m/de_rouille_et_dos_2012 82% 159
 Magic Mike 2012
-/m/magic_mike
+/m/magic_mike 80% 200
 Declaration of War 2012
-/m/declaration_of_war
+/m/declaration_of_war 86% 43
 Snabba cash Easy Money 2012
-/m/snabba_cash_2012
+/m/snabba_cash_2012 85% 68
 Haywire 2012
-/m/haywire_2011
+/m/haywire_2011 80% 186
 Brave 2012
-/m/brave_2012
+/m/brave_2012 78% 232
 Crazy Horse 2012
-/m/crazy_horse_2010
+/m/crazy_horse_2010 85% 53
 Flight 2012
-/m/flight_2012
+/m/flight_2012 78% 225
 The Grey 2012
-/m/the_grey_2012
+/m/the_grey_2012 79% 199
 Detropia 2012
-/m/detropia_2012
+/m/detropia_2012 85% 40

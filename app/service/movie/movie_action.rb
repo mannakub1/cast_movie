@@ -41,14 +41,19 @@ class Movie::MovieAction
       if file.size == 8
           File.open("#{path_source}#{file}",'r').each_with_index do |x, index|
             if index % 2 == 0 
-              name = x
+              name = x.gsub("\n","")
               puts name
             else 
-              Movie::MovieAction.new.add(name: name, href: x, year: file)
+              detail = x.split(" ")
+              Movie::MovieAction.new.add(name: name, href: detail[0], score: detail[1], num_review: detail[2], file_name: file_named(name), year: file[0..3], key: name+" "+detail[1]+" "+ detail[2])
             end
           end
       end
     end
+  end
+
+  def file_named(file)
+    file.downcase.gsub(/[^a-z0-9\s]/i, " ").gsub("  ", " ").gsub(" ","_").strip
   end
 
   def path_source
